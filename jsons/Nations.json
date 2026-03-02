@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Famille Plantagenêt",
-		"leaderName": "Henri Plantagenêt, Duc d'Aquitaine et Roi d'Angleterre",
+		"leaderName": "Henri, Duc d'Aquitaine et Roi d'Angleterre",
 		"adjective": ["Les Plantagenêt"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
@@ -47,7 +47,7 @@
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Je n'ai que faire vous. Donnez-moi ce que je veux.",
-		"attacked": "Vous souhaitez me voir en furie ? Vous allez voir.",
+		"attacked": "Vous souhaitez me voir en furie? Vous allez voir.",
 		"defeated": "Je vous maudit! Vous, votre famille, vos êtres aimés, tous! JE VOUS MAUDITS TOUS!",
 		"introduction": "Mon peuple dit que je rayonne. Et je le ferai pour tous ceux qui peuvent être utiles.",
 		
