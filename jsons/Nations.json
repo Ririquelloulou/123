@@ -49,7 +49,7 @@
 		"declaringWar": "Je n'ai que faire vous. Donnez-moi ce que je veux.",
 		"attacked": "Vous souhaitez me voir en furie ? Vous allez voir.",
 		"defeated": "Je vous maudit! Vous, votre famille, vos êtres aimés, tous! JE VOUS MAUDITS TOUS!",
-		"introduction": "Mon peuple dit que je rayonne. Et je le serai pour tous ceux qui me sont utiles.",
+		"introduction": "Mon peuple dit que je rayonne. Et je le ferai pour tous ceux qui me sont utiles.",
 		
 		"neutralHello": "Comment allez-vous aujourd'hui?",
 		"neutralLetsHearIt": ["Dîtes m'en plus."],
@@ -66,7 +66,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"unique": "Les ennemis de mes ennemis sont mes amis",
 		"cities": ["Lombron","Connerré","Montfort-le-Gesnois","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -105,6 +105,43 @@
 		"uniqueName": "Votre pourpre me va si bien.",
 		"uniques": 
 		"cities": ["Savigné l'Evêque","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Loué",
+		"leaderName": "Seigneur",
+		"adjective": ["Le seigneur de Loué"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Qui va là! Ah c'est vous! Prenez place et parlons.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Haha mais regardez qui voilà... Que me veut-il celui-là?",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "",
+		"uniques": [
+		"cities": ["Lombron","Connerré","Montfort-le-Gesnois","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
