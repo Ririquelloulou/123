@@ -150,7 +150,7 @@
 		"name": "Les Cerfs Argentés",
 		"leaderName": "Seigneur",
 		"adjective": ["Seigneur des Cerfs Argentés"],
-		"startBias": ["Plains", "Avoid [Snow]"],
+		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
@@ -187,7 +187,7 @@
 		"name": "Alpes Mancelles",
 		"leaderName": "Seigneur",
 		"adjective": ["Le Seigneur des Alpes Mancelles"],
-		"startBias": ["Hill"],
+		"startBias": ["Hill", "Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
