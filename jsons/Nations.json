@@ -30,7 +30,7 @@
 		"outerColor": [11,00,25],
 		"innerColor": [99,00,00],
 		"uniqueName": "MANIFEST_DESTINY",
-		"uniques": [
+		"uniques": []
 		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Vieux Maine","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -103,7 +103,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Votre pourpre me va si bien.",
-		"uniques": 
+		"uniques": []
 		"cities": ["Savigné l'Evêque","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -214,8 +214,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Votre pourpre me va si bien.",
-		"uniques": 
-		"cities": [,"St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
+		"uniques": []
+		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
