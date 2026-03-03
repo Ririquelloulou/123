@@ -24,6 +24,7 @@
 	}
 	{
 		"name": "Ecurie de Thelma",
+		"replaces": "Stable",
 		"uniqueTo": "Les Cerfs Argentés"
 		"maintenance": 1,
 		"gold": 3,
