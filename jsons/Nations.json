@@ -149,8 +149,8 @@
 	{
 		"name": "Les Cerfs Argentés",
 		"leaderName": "Seigneur",
-		"adjective": ["Seigneur Gabor des Cerfs Argentés"],
-		"startBias": ["Plains"], "Avoid [Snow]",
+		"adjective": ["Seigneur des Cerfs Argentés"],
+		"startBias": ["Plains", "Avoid [Snow]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
