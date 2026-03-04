@@ -214,7 +214,44 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "L'habitude des reliefs",
-		"uniques": ["All [relevant] units receive the [Drill I] promotion"]
+		"uniques": ["All [relevant] units receive the [Drill I] promotion","+100]% [Iron] resource production"],
+		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
+			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
+			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Famille G",
+		"leaderName": "Seigneur",
+		"adjective": ["Famille G"],
+		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Vous ne me laissez pas le choix. Préparez vos hommes à la guerre.",
+		"attacked": "Jamais personne n'a pu prendre notre territoire. Vous vous écraserez comme les autres face à notre témérité.",
+		"defeated": "Le divin nous puni pour le crime des hommes. Vous non plus, être de vices, ne pourrez être épargner de la colère des cieux.",
+		"introduction": "Mon peuple vit dans ces montagnes depuis des siècles. Et comme la montagne il abrite une force aux ressources inépuisables.",
+		
+		"neutralHello": "C'est une belle journée pour être vivant.",
+		"neutralLetsHearIt": ["Avancez-vous."],
+		"neutralNo": ["Merci, mais au nom de mon peuple je refuse votre offre."],
+		"neutralYes": ["Très bien."],
+
+		"hateHello": "Vous osez venir ici!?",
+		"hateLetsHearIt": ["Parlez."],
+		"hateNo": ["Ne vous moquez pas de moi."],
+		"hateYes": ["Bien."],
+		
+		"afterPeace": "La paix est le meilleure chemin. Nos morts méritent de funérailles honorables.",
+		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "L'irréprochable est un calcul",
+		"uniques": ["-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
 		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
