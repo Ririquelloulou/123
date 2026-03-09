@@ -3,7 +3,7 @@
 		"name": "Famille Plantagenêt",
 		"leaderName": "Henri, Duc d'Aquitaine et Roi d'Angleterre",
 		"adjective": ["Les Plantagenêt"],
-		"startBias": ["Snow"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
@@ -29,9 +29,9 @@
 
 		"outerColor": [11,00,25],
 		"innerColor": [99,00,00],
-		"uniqueName": "MANIFEST_DESTINY",
-		"uniques": []
-		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Vieux Maine","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"uniqueName": "Suzerain de droit",
+		"uniques": ["May heal outside of friendly territory", "+[15]% gold"],
+		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -103,7 +103,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Votre pourpre me va si bien.",
-		"uniques": []
+		"uniques": ["Heals [20] damage if it kills a unit","[+20]% Health from pillaging tiles"]
 		"cities": ["Savigné l'Evêque","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -211,9 +211,9 @@
 		"afterPeace": "La paix est le meilleure chemin. Nos morts méritent de funérailles honorables.",
 		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "L'habitude des reliefs",
+		"outerColor": [255, 255, 255],
+		"innerColor": [65, 141, 254],
+		"uniqueName": "Observes la montagne. Je suis là",
 		"uniques": ["All [relevant] units receive the [Drill I] promotion","[+100]% [Iron] resource production"],
 		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
