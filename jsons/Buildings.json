@@ -42,7 +42,7 @@
 		"uniqueTo": "Les Cerfs Argentés",
 		"gold": 1,
 		"happiness": 3,
-		"uniques": ["Units [in this citie] cost no Maintenance"],
+		"uniques": ["Units in cities cost no Maintenance"],
 		"maintenance": 1,
 		"requiredTech": "Civil Service"
 	},
