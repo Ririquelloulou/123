@@ -153,8 +153,9 @@
 		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		"startIntroPart3": "Bienvenue seigneur. Vous êtes le plus jeune seigneur des terres du Maine. Vous prenez votre ascension en pleine Guerre du Trône, le roi est mort, mais vous ne le connaisiez à peine. Vous subissez de plein fouet les ravages du conflit, en témoigne la prise de Savigné l'Evêque par le seigneur à la Bannière Pourpre. Certains vous jugent trop inexpérimentés pour vous considéré comme une menace. Montrer votre valeur aux peuples du Maine, reprenez votre domaine, et faites courir votre nom sur toutes les lèvres des Rois et seigneurs. Seigneur des Cerfs Argentés, construisez votre légende!",
 		
 		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
 		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
@@ -252,7 +253,7 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "L'irréprochable est un calcul",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
-		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
+		"cities": ["Le Mans","Pruillé","Les Tréfins","La Colline","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
