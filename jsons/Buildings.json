@@ -27,7 +27,7 @@
 		"replaces": "Stable",
 		"uniqueTo": "Les Cerfs Argentés"
 		"maintenance": 1,
-		"gold": 3,
+		"gold": 2,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
@@ -36,5 +36,14 @@
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Douane",
+		"uniqueTo": "Les Cerfs Argentés",
+		"gold": 1,
+		"happiness": 3,
+		"uniques": ["Units [in this citie] cost no Maintenance"],
+		"maintenance": 1,
+		"requiredTech": "Civil Service"
 	},
 ]
