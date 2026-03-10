@@ -23,10 +23,12 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Moral d'Acier",
+		"name": "Discours au peuple",
 		"isNationalWonder": true,
-		"happiness": 100,
+		"happiness": 10,
+		"culture": 1,
 		"cost": 0,
+		"requiredTech": "Civil Service",
 	},
 	{
 		"name": "Rue mal famée",
