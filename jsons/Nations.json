@@ -174,8 +174,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [43, 88, 46],
+		"innerColor": [81, 0, 137],
 		"uniqueName": "",
 		"uniques": []
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
