@@ -23,7 +23,7 @@
 		"requiredTech": "Engineering"
 	}
 	{
-		"name": "Palace",
+		"name": "Fief",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
