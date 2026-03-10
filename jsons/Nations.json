@@ -37,9 +37,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
-		"name": "Lombron",
+		"name": "Châtellenie de Montfort",
 		"leaderName": "Dame Zina",
-		"adjective": ["Les Lombronnais ou Dame Zina de Lombron"],
+		"adjective": ["Châtelaine Dame Zina"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
@@ -68,7 +68,7 @@
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Les ennemis de mes ennemis sont mes amis",
 		"uniques": ["[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Lombron","Connerré","Montfort-le-Gesnois","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
+		"cities": ["Montfort","Lombron","Connerré","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -216,8 +216,8 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Observes la montagne. Je suis là",
 		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>","All [relevant] units receive the [Drill I] promotion","[+100]% [Iron] resource production","[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
-			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
+		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Cénéri","St-Pierre-des-Nids","Le Rocher","Chevarières","Neuf Moulin","Le Coudray","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
+			"Gué Ory","La Chapelle","Le Grand Coslin","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
