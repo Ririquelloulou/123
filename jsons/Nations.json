@@ -30,7 +30,7 @@
 		"outerColor": [11,00,25],
 		"innerColor": [99,00,00],
 		"uniqueName": "Suzerain de droit",
-		"uniques": ["May heal outside of friendly territory", "+[15]% [Gold]"],
+		"uniques": ["May heal outside of friendly territory", "+[15]% [Gold]","[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -66,7 +66,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Les ennemis de mes ennemis sont mes amis",
+		"uniqueName": "Les ennemis de mes ennemis sont mes amis",
+		"uniques": ["[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Lombron","Connerré","Montfort-le-Gesnois","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -103,7 +104,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Votre pourpre me va si bien.",
-		"uniques": ["Heals [20] damage if it kills a unit","[+20]% Health from pillaging tiles"]
+		"uniques": ["Heals [20] damage if it kills a unit","[+20]% Health from pillaging tiles","[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Savigné l'Evêque","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -140,7 +141,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "",
-		"uniques": []
+		"uniques": ["[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Loué","Brûlon","St-Denis-d'Orques","Crannes-en-Champagne","Coulans-sur-Gée","Joué-en-Charnie","Longnes","Epineau","La Mercerie","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -177,7 +178,7 @@
 		"outerColor": [43, 88, 46],
 		"innerColor": [205, 205, 205],
 		"uniqueName": "",
-		"uniques": ["Gain a free [Moral d'Acier] [in the capital]"],
+		"uniques": ["[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -251,7 +252,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "L'irréprochable est un calcul",
-		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate","[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Le Mans","Pruillé","Les Tréfins","La Colline","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
