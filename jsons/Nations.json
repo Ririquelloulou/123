@@ -175,7 +175,7 @@
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [43, 88, 46],
-		"innerColor": [81, 0, 137],
+		"innerColor": [205, 205, 205],
 		"uniqueName": "",
 		"uniques": []
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
