@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [11,00,25],
-		"innerColor": [99,00,00],
+		"outerColor": [153,5,3],
+		"innerColor": [255,184,33],
 		"uniqueName": "Suzerain de droit",
 		"uniques": ["May heal outside of friendly territory", "+[15]% [Gold]","[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
@@ -64,8 +64,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [70, 0, 118],
+		"innerColor": [240, 199, 0],
 		"uniqueName": "Les ennemis de mes ennemis sont mes amis",
 		"uniques": ["[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Lombron","Connerré","Montfort-le-Gesnois","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
@@ -138,8 +138,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [51,25,0],
+		"innerColor": [255,255,102],
 		"uniqueName": "",
 		"uniques": ["[-500]% unhappiness from the number of cities","[-500]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Loué","Brûlon","St-Denis-d'Orques","Crannes-en-Champagne","Coulans-sur-Gée","Joué-en-Charnie","Longnes","Epineau","La Mercerie","Q'Vronens","Q'Aerlae",
