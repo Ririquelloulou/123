@@ -23,6 +23,18 @@
 		"requiredTech": "Engineering"
 	}
 	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"happiness": 100,
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
 		"name": "Ecurie de Thelma",
 		"replaces": "Stable",
 		"uniqueTo": "Les Cerfs Argentés"
