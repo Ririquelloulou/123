@@ -21,12 +21,17 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
 	{
 		"name": "Moral d'Acier",
 		"isNationalWonder": true,
 		"happiness": 100,
 		"cost": 0,
+	},
+	{
+		"name": "Rue mal famée",
+		"uniques": ["Gain a free spy","[-10]% enemy spy effectiveness [in this city]","Unavailable <after generating a spy>"],
+		"requiredTech": "Trapping",
 	},
 	{
 		"name": "Ecurie de Thelma",
