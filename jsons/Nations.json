@@ -214,7 +214,7 @@
 		"outerColor": [65, 141, 254],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Observes la montagne. Je suis là",
-		"uniques": ["All [relevant] units receive the [Drill I] promotion","[+100]% [Iron] resource production","[-100]% unhappiness from the number of cities", "[-100]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["All [relevant] units receive the [Drill I] promotion","[+100]% [Iron] resource production","[-100]% unhappiness from the number of cities","[-100]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Pierre-des-Nids","St-Céneri-le-Gérei","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Le Gué Ory","La Chapelle","Les Chevarières","Le Grand Coslin","Le Rocher","Le Neuf Moulin","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
