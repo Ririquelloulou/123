@@ -286,8 +286,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [8, 8, 166],
-		"innerColor": [255,0,0],
+		"outerColor": [255,0,0],
+		"innerColor": [8, 8, 166],
 		"uniqueName": "Mon courage est ma force",
 		"uniques": ["[-500]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
@@ -296,7 +296,7 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
-		"name": "France",
+		"name": "Royaume de France",
 		"leaderName": "Roi Louis VII",
 		"adjective": ["Le Roi de France"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
