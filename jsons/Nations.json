@@ -101,8 +101,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,0,0],
-		"innerColor": [167, 162, 216],
+		"outerColor": [167, 162, 216],
+		"innerColor": [255,0,0],
 		"uniqueName": "Votre pourpre me va si bien.",
 		"uniques": ["Heals [20] damage if it kills a unit","[+20]% Health from pillaging tiles","[-500]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Savigné l'Evêque","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
@@ -286,7 +286,7 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [255,0,0],
+		"outerColor": [184, 0, 0],
 		"innerColor": [8, 8, 166],
 		"uniqueName": "Mon courage est ma force",
 		"uniques": ["[-500]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
