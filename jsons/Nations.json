@@ -288,7 +288,7 @@
 
 		"outerColor": [184, 0, 0],
 		"innerColor": [8, 8, 166],
-		"uniqueName": "Mon courage est ma force",
+		"uniqueName": "Mon courage fait ma force",
 		"uniques": ["[-500]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -299,6 +299,43 @@
 		"name": "Royaume de France",
 		"leaderName": "Roi Louis VII",
 		"adjective": ["Le Roi de France"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,255,75],
+		"uniqueName": "Roi pour unir",
+		"uniques": ["[-100]% maintenance on road & railroads","[+3 Gold] from each Trade Route","[-500]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Alençon",
+		"leaderName": "Seigneur",
+		"adjective": ["Seigneur de Alençon"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
