@@ -25,15 +25,15 @@
 	{
 		"name": "Impôts seigneurial",
 		"isNationalWonder": true,
-		"happiness": -10,
-		"uniques": ["[+30]% Gold"],
+		"happiness": -15,
+		"uniques": ["[+15]% Gold [in all cities]"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
 	{
 		"name": "Impôts sur les Cerfs",
 		"happiness": -4,
-		"uniques": ["[+10]% Gold"],
+		"uniques": ["[+10]% Gold [in this city]"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
