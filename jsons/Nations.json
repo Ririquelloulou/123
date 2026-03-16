@@ -35,6 +35,7 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"spyNames": ["",""]
 	},
 	{
 		"name": "Montfort",
@@ -66,7 +67,7 @@
 
 		"outerColor": [70, 0, 118],
 		"innerColor": [240, 199, 0],
-		"uniqueName": "Les ennemis de mes ennemis sont mes amis",
+		"uniqueName": "Culture forte",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Montfort","Lombron","Connerré","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -140,7 +141,7 @@
 
 		"outerColor": [51,25,0],
 		"innerColor": [255,255,102],
-		"uniqueName": "",
+		"uniqueName": "Pour le peuple",
 		"uniques": ["[+2 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Loué","Brûlon","St-Denis-d'Orques","Crannes-en-Champagne","Coulans-sur-Gée","Joué-en-Charnie","Longnes","Epineau","La Mercerie","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -183,6 +184,7 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"spyNames": ["Gabriel","Léhander"]
 	},
 	{
 		"name": "Alpes Mancelles",
@@ -294,6 +296,7 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"spyNames": ["Léandre","Cornault"]
 	},
 	{
 		"name": "Royaume de France",
@@ -331,6 +334,7 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"spyNames": ["La Rose"]
 	},
 	{
 		"name": "Alençon",
@@ -362,7 +366,7 @@
 
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,255,75],
-		"uniqueName": "L'ambition, et servir",
+		"uniqueName": "Reigner et Servir",
 		"uniques": ["Gain an extra spy","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Alençon","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
