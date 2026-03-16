@@ -179,7 +179,7 @@
 		"outerColor": [43, 88, 46],
 		"innerColor": [205, 205, 205],
 		"uniqueName": "Jamais à terre",
-		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Gain an extra spy <after discovering [Agriculture]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
