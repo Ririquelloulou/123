@@ -47,7 +47,6 @@
 		"replaces": "Stable",
 		"uniqueTo": "Les Cerfs Argentés"
 		"maintenance": 1,
-		"gold": 2,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
@@ -61,7 +60,7 @@
 		"name": "Douane",
 		"uniqueTo": "Les Cerfs Argentés",
 		"gold": 1,
-		"happiness": 3,
+		"happiness": 2,
 		"maintenance": 1,
 		"requiredTech": "Civil Service"
 	},
