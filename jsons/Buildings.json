@@ -31,8 +31,23 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Quartier mal famé",
-		"uniques": ["Gain a free spy","[-10]% enemy spy effectiveness [in this city]","Unavailable <after generating a Quartier mal famé>"],
+		"name": "Impôts seigneurial",
+		"isNationalWonder": true,
+		"happiness": -10,
+		"uniques": ["[+30]% Gold"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Impôts sur les Cerfs",
+		"happiness": -3,
+		"uniques": ["[+8]% Gold"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Rue mal famé",
+		"uniques": ["[-10]% enemy spy effectiveness [in this city]"],
 		"requiredTech": "Trapping",
 	},
 	{
