@@ -23,14 +23,6 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Discours au peuple",
-		"isNationalWonder": true,
-		"happiness": 10,
-		"culture": 1,
-		"cost": 0,
-		"requiredTech": "Civil Service",
-	},
-	{
 		"name": "Impôts seigneurial",
 		"isNationalWonder": true,
 		"happiness": -10,
