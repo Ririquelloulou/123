@@ -32,8 +32,8 @@
 	},
 	{
 		"name": "Impôts sur les Cerfs",
-		"happiness": -3,
-		"uniques": ["[+8]% Gold"],
+		"happiness": -4,
+		"uniques": ["[+10]% Gold"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
