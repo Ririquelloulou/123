@@ -31,8 +31,8 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Rue mal famée",
-		"uniques": ["Gain a free spy","[-10]% enemy spy effectiveness [in this city]","Unavailable <after generating a spy>"],
+		"name": "Quartier mal famé",
+		"uniques": ["Gain a free spy","[-10]% enemy spy effectiveness [in this city]","Unavailable <after generating a Quartier mal famé>"],
 		"requiredTech": "Trapping",
 	},
 	{
