@@ -13,5 +13,19 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Rodeur",
+		"unitType": "Archery",
+		"uniqueTo": "Les Loups Chevronnés",
+		"movement": 2,
+		"strength": 9,
+		"rangedStrength": 22,
+		"cost": 120,
+		"uniques": "Withdraws before melee combat <with [33]% chance>"
+		"requiredTech": "Education",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "arrow"
+	},
 ]
