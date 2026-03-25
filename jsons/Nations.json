@@ -217,7 +217,7 @@
 		"outerColor": [65, 141, 254],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Observes la montagne. Je suis là",
-		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>","[{Military} {Land}] units gain the [Drill I] promotion","[+100]% [Iron] resource production","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[{Military} {Land}] units gain the [Drill I] promotion","[+100]% [Iron] resource production","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Cénéri","St-Pierre-des-Nids","Le Rocher","Chevarières","Neuf Moulin","Le Coudray","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
 			"Gué Ory","La Chapelle","Le Grand Coslin","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -372,5 +372,227 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	},
+		},
+		{
+		"name": "La Suze",
+		"leaderName": "Seigneur",
+		"adjective": ["Seigneur de La Suze"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,255,75],
+		"uniqueName": "Reigner et Servir",
+		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Suze","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		},
+		{
+		"name": "La Ferté Bernard",
+		"leaderName": "Seigneur",
+		"adjective": ["Seigneur de La Ferté Bernard"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,255,75],
+		"uniqueName": "Reigner et Servir",
+		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Ferté Bernard","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		},
+		{
+		"name": "La Flèche",
+		"leaderName": "Seigneur",
+		"adjective": ["Seigneur de La Flèche"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,255,75],
+		"uniqueName": "Reigner et Servir",
+		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		},
+		{
+		"name": "Sillé-le-Guillaume",
+		"leaderName": "Seigneur",
+		"adjective": ["Seigneur de Sillé-le-Guillaume"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [216, 120, 0],
+		"innerColor": [255,255,75],
+		"uniqueName": "Reigner et Servir",
+		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Sillé-le-Guillaume","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		},
+		{
+		"name": "Coallition de Sarthe",
+		"leaderName": "Seigneurs",
+		"adjective": ["Seigneurs de Coallition de Sarthe"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,255,75],
+		"uniqueName": "L'union fait la force",
+		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		},
+		{
+		"name": "Tours",
+		"leaderName": "Comte",
+		"adjective": ["Comte de Tours"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salutations, mon sujet.",
+		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
+		"neutralNo": ["Certainement pas."],
+		"neutralYes": ["Ceci me convient."],
+
+		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
+		"hateNo": ["Vous vous moquez de moi!"],
+		"hateYes": ["Ceci à le mérite d'être juste."],
+		
+		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,255,75],
+		"uniqueName": "Reigner et Servir",
+		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Tours","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		},
 ]
