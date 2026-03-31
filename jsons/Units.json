@@ -20,7 +20,7 @@
 		"uniqueTo": "Les Loups Chevronnés",
 		"movement": 2,
 		"strength": 9,
-		"rangedStrength": 22,
+		"rangedStrength": 23,
 		"cost": 150,
 		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Withdraws before melee combat <with [33]% chance>","No defensive terrain bonus"],
 		"requiredTech": "Education",
