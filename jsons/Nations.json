@@ -9,9 +9,9 @@
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "Félon! Je vais vous châtié pour vous être rebellé!",
+		"attacked": "Qu'est-ce qui vous prend? Je suis votre Roi!",
+		"defeated": "En m'éliminant, vous vous mettez à dos toute l'Angleterre. Sa colère sera terrible.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "Salutations, vassal.",
@@ -25,12 +25,12 @@
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "Un accord solidifie les peuples. Vous acceptez?",
 
 		"outerColor": [153,5,3],
 		"innerColor": [255,184,33],
 		"uniqueName": "Suzerain de droit",
-		"uniques": ["May heal outside of friendly territory","[+3 Gold] from each Trade Route","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["May heal outside of friendly territory","[+3 Gold] from each Trade Route","[-300]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -233,9 +233,9 @@
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Vous ne me laissez pas le choix. Préparez vos hommes à la guerre.",
-		"attacked": "Jamais personne n'a pu prendre notre territoire. Vous vous écraserez comme les autres face à notre témérité.",
-		"defeated": "Le divin nous puni pour le crime des hommes. Vous non plus, être de vices, ne pourrez être épargner de la colère des cieux.",
+		"declaringWar": "Je vous analyse depuis un certain temps. Et je vous préfère hors jeu que comme tel.",
+		"attacked": "Vous voulez jouer? Très bien jouons.",
+		"defeated": "Je sais reconnaître un adversaire de taille, et je les respecte. Je vous admire.",
 		"introduction": "Mon peuple vit dans ces montagnes depuis des siècles. Et comme la montagne il abrite une force aux ressources inépuisables.",
 		
 		"neutralHello": "C'est une belle journée pour être vivant.",
@@ -308,9 +308,9 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "Vous avez choisis votre camp... Tant pis pour vous.",
+		"attacked": "Vous qui êtes inconnu à la cour de France... Comment imaginez-vous pouvoir me battre?",
+		"defeated": "Comment est-ce possible? Que dirait le fondateur de ma dynastie Hugues Capet? J'imagine que la coutûme nécessite que je vous félicites malgré tout... Mais un autre Roi prendra ma place, et vous paierez.",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
