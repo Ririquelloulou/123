@@ -475,8 +475,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [38, 98, 255],
-		"innerColor": [255,255,75],
+		"outerColor": [81, 0, 137],
+		"innerColor": [213,249,255],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
