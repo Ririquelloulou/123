@@ -144,9 +144,8 @@
 		"uniqueName": "Pour le peuple",
 		"uniques": ["[+2 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Sablé","Loué","Parcé","Brûlon","Précigné","Auvers","St-Denis-d'Orques","Crannes-en-Champagne","Coulans-sur-Gée","Joué-en-Charnie","Longnes","Epineau","Juigné",
-			"Avoise","Tassé","Chantenay","Poillé","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","La Mercerie"]
+			"Avoise","Tassé","Chantenay","Poillé","Avessé","Solesmes","Souvigné","Vion","Pincé","Louailles",
+			"Pirmil","Vallon","Maigné"]
 	},
 	{
 		"name": "Les Cerfs Argentés",
@@ -180,8 +179,8 @@
 		"innerColor": [205, 205, 205],
 		"uniqueName": "Jamais à terre",
 		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Gain an extra spy <after discovering [Trapping]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Malessard","La Poulainerie","Le Savignéen","Chataigné","Les Brûlés","Morionnière","La Garelle","Petit Malessard","Beauchamp",
+			"La Noé","Patisseau","Groie","Bel Saule","Grand Haunay","Commune","Sac à Crotte","Vieille Bique","Mhmm Pépite de Chocolat","Trouve Un Nom Toi Même Si Tu Es Si Malin Peau De Lapin",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 		"spyNames": ["Gabriel","Léhander"]
@@ -405,10 +404,9 @@
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["La Suze","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Ecommoy","La Suze","Le Grand Lucé","Fillé","Guécélard","Montval","Teloché","St Mars","Pontvallain","Mayet","Courdemanche","Loir en Val",
+			"Lhomme","Luceau","Jupilles","Belin","Marigné","Oizé","Recueil","La Noirie","Petit Raidis",
+			"Outillé","Croix Genet"]
 		},
 		{
 		"name": "La Ferté Bernard",
@@ -442,8 +440,8 @@
         "innerColor": [157,172,255],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["La Ferté Bernard","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["La Ferté Bernard","Bonnétable","Nogent-le-Bernard","Beaufay","Vibraye","La Bosse","Le Luard","Tuffé Val","Lamnay","Cormes","Théligny",
+			"Montmirail","Avezé","Cherré","La Monge","Böessé","Mousseries","Le Peloi","Le Buron","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 		},
