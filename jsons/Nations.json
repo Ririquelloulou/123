@@ -326,8 +326,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [255,184,33],
-		"innerColor": [255,255,75],
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,184,33],
 		"uniqueName": "Roi pour unir",
 		"uniques": ["[-100]% maintenance on road & railroads","[+3 Gold] from each Trade Route","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
