@@ -39,7 +39,7 @@
 	},
 	{
 		"name": "Rue mal famé",
-		"uniques": ["[-10]% enemy spy effectiveness [in this city]"],
+		"uniques": ["[-10]% enemy spy effectiveness [in this city], Gain an extra spy"],
 		"requiredTech": "Trapping",
 	},
 	{
