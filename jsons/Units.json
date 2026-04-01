@@ -26,7 +26,6 @@
 		"uniques": ["When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
-"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"
 	{
 		"name": "Rodeur",
 		"unitType": "Archery",
