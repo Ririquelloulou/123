@@ -374,9 +374,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 		},
 		{
-		"name": "La Suze",
+		"name": "Ecommoy",
 		"leaderName": "Seigneur",
-		"adjective": ["Seigneur de La Suze"],
+		"adjective": ["Seigneur de Ecommoy"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
@@ -401,8 +401,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [38, 98, 255],
-		"innerColor": [255,255,75],
+		"outerColor": [8, 8, 166],
+		"innerColor": [255, 255, 255],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Suze","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
