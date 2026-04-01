@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Plantagenêt",
-		"leaderName": "Henri, Duc d'Aquitaine et Roi d'Angleterre",
+		"name": "Royaume d'Angleterre",
+		"leaderName": "Henri Plantagenêt",
 		"adjective": ["Les Plantagenêt"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
