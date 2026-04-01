@@ -11,7 +11,7 @@
 		
 		"declaringWar": "Félon! Je vais vous châtié pour vous être rebellé!",
 		"attacked": "Qu'est-ce qui vous prend? Je suis votre Roi!",
-		"defeated": "En m'éliminant, vous vous mettez à dos toute l'Angleterre. Sa colère sera terrible.",
+		"defeated": "En m'évinçant du Maine, vous vous mettez à dos toute l'Angleterre. Sa colère sera terrible.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "Salutations, vassal.",
@@ -345,23 +345,23 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "Ai-je besoin de vous expliquer ce qui va suivre? Les chairs sera meurtries, les os seront pulverisés, et vous serez anéantis.",
+		"attacked": "Ah en voilà de l'audace! Voyons ce que vous savez faire.",
+		"defeated": "Eh bien vous avez gagné. Mon plus grand regré : ne pas avoir pu planter ma hache dans votre tête.",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Salutaions.",
 		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
 		"neutralNo": ["Certainement pas."],
 		"neutralYes": ["Ceci me convient."],
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Vous êtes?",
 		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
 		"hateNo": ["Vous vous moquez de moi!"],
 		"hateYes": ["Ceci à le mérite d'être juste."],
 		
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"tradeRequest": "Acceptez que ce soit simple.",
 
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,255,75],
@@ -382,23 +382,23 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "C'est la guerre! Inspirons les bardes de nos hauts gestes.",
+		"attacked": "Qu'ai-je bien pu vous faire...",
+		"defeated": "Vieille bourique que vous êtes. J'en ai pourtant encore dans le ventre: tirez sur mon doigt.... PROUT!",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Belle journée.",
 		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
 		"neutralNo": ["Certainement pas."],
 		"neutralYes": ["Ceci me convient."],
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Parle à mon fion tête de",
 		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
 		"hateNo": ["Vous vous moquez de moi!"],
 		"hateYes": ["Ceci à le mérite d'être juste."],
 		
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"tradeRequest": "Mieux vaut tendre la main que de jeter son poing.",
 
 		"outerColor": [8, 8, 166],
 		"innerColor": [255, 255, 255],
@@ -619,7 +619,7 @@
 		"hateYes": ["Ceci à le mérite d'être juste."],
 		
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"tradeRequest": "Du gateau, du gateau! Voulez-vous du gateau?",
 
 		"outerColor": [255,168,168],
 		"innerColor": [84,26,26],
