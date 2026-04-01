@@ -513,7 +513,7 @@
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [216, 120, 0],
-		"innerColor": [27,53,63],
+		"innerColor": [28,51,119],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Sillé-le-Guillaume","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
