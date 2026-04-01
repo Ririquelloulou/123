@@ -102,7 +102,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [167, 162, 216],
+		"outerColor": [37, 43, 33],
 		"innerColor": [255,0,0],
 		"uniqueName": "Votre pourpre me va si bien.",
 		"uniques": ["Heals [20] damage if it kills a unit","[+20]% Health from pillaging tiles","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
