@@ -251,8 +251,8 @@
 		"afterPeace": "La paix est le meilleure chemin. Nos morts méritent de funérailles honorables.",
 		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,120,0],
+		"innerColor": [81,0,9],
 		"uniqueName": "L'irréprochable est un calcul",
 		"uniques": ["[-50]% City-State Influence degradation","City-State Influence recovers at twice the normal rate","[+1 Production] from every [Strategic resource]","[-325]% unhappiness from the number of cities","[+25]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Le Mans","Les Tréfins","Allones","Arnages","Coulaines","Pruillé","Mulsanne","Rouillon","Spay","La Chappelle-St-Aubin","St Saturnin","Ruaudin","Sargé","La Colline","Maisons Rouges","Fays","La Croix","Chauffour","Etival",
