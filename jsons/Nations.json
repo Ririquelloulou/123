@@ -438,7 +438,7 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [12,75,25],
+		"outerColor": [18, 66, 22],
         "innerColor": [157,172,255],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
