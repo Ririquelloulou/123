@@ -550,7 +550,7 @@
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [139,32,23],
-		"innerColor": [114, 162, 233],
+		"innerColor": [27,33,96],
 		"uniqueName": "L'union fait la force",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
