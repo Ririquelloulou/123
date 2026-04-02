@@ -1,0 +1,27 @@
+
+atlas Test2 Unciv Mod.png
+size: 200, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Sarthe
+  rotate: false
+  xy: 0, 0
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+NationIcons/Les Loups Chevronnés
+  rotate: false
+  xy: 1600, 0
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+NationIcons/Les Loups Chevronnés
+  rotate: false
+  xy: 1600, 0
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
