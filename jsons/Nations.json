@@ -67,7 +67,7 @@
 
 		"outerColor": [70, 0, 118],
 		"innerColor": [240, 199, 0],
-		"uniqueName": "Culture forte",
+		"uniqueName": "Une culture forte et singulière",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Montfort","Lombron","Connerré","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -476,7 +476,7 @@
 		"outerColor": [81, 0, 137],
 		"innerColor": [213,249,255],
 		"uniqueName": "Reigner et Servir",
-		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[{Military} {Archery}] units gain the [Shock I] promotion","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
