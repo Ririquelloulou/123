@@ -18,6 +18,13 @@ NationIcons/Les Loups Chevronnés
   orig: 400, 400
   offset: 0, 0
   index: -1
+NationIcons/Châtelaine
+  rotate: false
+  xy: 400, 0
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
 UnitIcons/Loup Chevronné
   rotate: false
   xy: 800, 0
