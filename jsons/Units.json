@@ -68,7 +68,7 @@
 		"name": "Ravageur",
 		"unitType": "Sword",
 		"replaces": "Berserker",
-		"uniqueTo": "Alpes Mancelles",
+		"uniqueTo": "Denmark, Alpes Mancelles",
 		"movement": 2,
 		"strength": 18,
 		"cost": 120,
@@ -76,8 +76,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
-		"promotions": ["Pictish Courage"],
-		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>"]
+		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>","No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
