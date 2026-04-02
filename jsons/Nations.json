@@ -223,7 +223,7 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
-		"name": "Maison G",
+		"name": "Maison Garnier",
 		"leaderName": "Seigneur",
 		"adjective": ["Maison G"],
 		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
