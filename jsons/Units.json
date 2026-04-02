@@ -64,4 +64,20 @@
 		"promotions": ["Quick Study"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Berserker",
+		"unitType": "Sword",
+		"replaces": "Berserker",
+		"uniqueTo": "Alpes Mancelles",
+		"movement": 2,
+		"strength": 18,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+		"promotions": ["Pictish Courage","Invisible to non-adjacent units <in [Hill] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
