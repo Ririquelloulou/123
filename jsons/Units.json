@@ -27,6 +27,16 @@
 		"attackSound": "missile"
 	},
 	{
+		"name": "Coupe Gorge",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 5,
+		"cost": 120,
+		"uniques": ["[+250]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking"]
+		"requiredTech": "Steel",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Rodeur",
 		"unitType": "Archery",
 		"uniqueTo": "Les Loups Chevronnés",
