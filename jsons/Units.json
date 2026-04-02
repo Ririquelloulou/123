@@ -76,7 +76,8 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
-		"promotions": ["Pictish Courage","Invisible to non-adjacent units <in [Hill] tiles>"],
+		"promotions": ["Pictish Courage"],
+		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>"]
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
