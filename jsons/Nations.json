@@ -30,12 +30,12 @@
 		"outerColor": [153,5,3],
 		"innerColor": [255,184,33],
 		"uniqueName": "Suzerain de droit",
-		"uniques": ["May heal outside of friendly territory","[+3 Gold] from each Trade Route","[-300]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["May heal outside of friendly territory","[+3 Gold] from each Trade Route","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","[-300]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-		"spyNames": ["",""]
+		"spyNames": ["Jean","Buck","Georges"]
 	},
 	{
 		"name": "Montfort",
@@ -141,8 +141,8 @@
 
 		"outerColor": [51,25,0],
 		"innerColor": [255,255,102],
-		"uniqueName": "Pour le peuple",
-		"uniques": ["[+2 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
+		"uniqueName": "A mort et à sac",
+		"uniques": ["Receive [+300]% Gold from Barbarian encampments and pillaging Cities","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Sablé","Loué","Parcé","Brûlon","Précigné","Auvers","St-Denis-d'Orques","Crannes-en-Champagne","Coulans-sur-Gée","Joué-en-Charnie","Longnes","Epineau","Juigné",
 			"Avoise","Tassé","Chantenay","Poillé","Avessé","Solesmes","Souvigné","Vion","Pincé","Louailles",
 			"Pirmil","Vallon","Maigné"]
@@ -178,12 +178,12 @@
 		"outerColor": [43, 88, 46],
 		"innerColor": [205, 205, 205],
 		"uniqueName": "Jamais à terre",
-		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Gain an extra spy <after discovering [Trapping]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Gain an extra spy <after discovering [Trapping]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Malessard","La Poulainerie","Le Savignéen","Chataigné","Les Brûlés","Morionnière","La Garelle","Petit Malessard","Beauchamp",
 			"La Noé","Patisseau","Groie","Bel Saule","Grand Haunay","Commune","Sac à Crotte","Vieille Bique","Mhmm Pépite de Chocolat","Trouve Un Nom Toi Même Si Tu Es Si Malin Peau De Lapin",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-		"spyNames": ["Gabriel","Léhander"]
+		"spyNames": ["Gabriel","Thiault","Julienne","Miriame"]
 	},
 	{
 		"name": "Alpes Mancelles",
@@ -295,7 +295,7 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-		"spyNames": ["Léandre","Cornault"]
+		"spyNames": ["Léandre","Cornault","Poäna","Orthance"]
 	},
 	{
 		"name": "Royaume de France",
@@ -328,7 +328,7 @@
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,184,33],
 		"uniqueName": "Roi pour unir",
-		"uniques": ["[-100]% maintenance on road & railroads","[+3 Gold] from each Trade Route","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[-100]% maintenance on road & railroads","[+3 Gold] from each Trade Route","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -366,7 +366,7 @@
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,255,75],
 		"uniqueName": "Reigner et Servir",
-		"uniques": ["Gain an extra spy","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["No movement cost to pillage <for [Melee] units>","When conquering an encampment, earn [15] Gold and recruit a Barbarian unit <with [67]% chance>","Gain an extra spy","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Alençon","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -403,7 +403,7 @@
 		"outerColor": [8, 8, 166],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Reigner et Servir",
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+1 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Ecommoy","La Suze","Le Grand Lucé","Fillé","Guécélard","Montval","Teloché","St Mars","Pontvallain","Mayet","Courdemanche","Loir en Val",
 			"Lhomme","Luceau","Jupilles","Belin","Marigné","Oizé","Recueil","La Noirie","Petit Raidis",
 			"Outillé","Croix Genet"]
@@ -594,7 +594,7 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 		},
 		{
-		"name": "",
+		"name": "Châtelaine",
 		"leaderName": "Dame Su",
 		"adjective": ["Dame Su de "],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
@@ -629,5 +629,6 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"spyNames": ["Hélène","Salimar","Guenièvre","Obérhim"]
 		},
 ]
