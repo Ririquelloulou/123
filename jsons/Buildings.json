@@ -84,4 +84,15 @@
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+50]% Production when constructing [Archery] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
+	{
+		"name": "Workshop",
+		"uniqueTo": "Maison Garnier",
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"uniques":["[+50]% [Iron] [in this city]"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
 ]
