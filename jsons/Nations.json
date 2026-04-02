@@ -519,9 +519,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 		},
 		{
-		"name": "Coallition de Sarthe",
-		"leaderName": "Seigneurs",
-		"adjective": ["Seigneurs de Coallition de Sarthe"],
+		"name": "Sarthe",
+		"leaderName": "Coallition",
+		"adjective": ["Coallition de Sarthe"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
