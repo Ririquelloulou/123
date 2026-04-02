@@ -90,7 +90,7 @@
 		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
-		"uniques":["[+50]% [Iron] [in this city]"],
+		"uniques":["[+50]% [Iron] resource production [in this city]"],
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
