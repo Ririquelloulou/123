@@ -65,7 +65,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Berserker",
+		"name": "Ravageur",
 		"unitType": "Sword",
 		"replaces": "Berserker",
 		"uniqueTo": "Alpes Mancelles",
