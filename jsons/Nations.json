@@ -550,7 +550,7 @@
 		"outerColor": [139,32,23],
 		"innerColor": [27,33,96],
 		"uniqueName": "L'union fait la force",
-		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great person generation","[-300]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -586,7 +586,7 @@
 
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,255,75],
-		"uniqueName": "Reigner et Servir",
+		"uniqueName": "Haute et Forte",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Tours","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -623,7 +623,7 @@
 
 		"outerColor": [255,168,168],
 		"innerColor": [84,26,26],
-		"uniqueName": "Reigner et Servir",
+		"uniqueName": "Tel le phoenix",
 		"uniques": ["[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Tours","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
