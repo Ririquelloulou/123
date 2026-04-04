@@ -288,7 +288,7 @@
 		"tradeRequest": "L'échange est la base de toute relation. Qu'en pensez-vous?",
 
 		"outerColor": [184, 0, 0],
-		"innerColor": [38, 98, 255],
+		"innerColor": [65, 141, 254],
 		"uniqueName": "Mon courage fait ma force",
 		"uniques": ["Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
