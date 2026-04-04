@@ -30,12 +30,12 @@
 		"outerColor": [153,5,3],
 		"innerColor": [255,184,33],
 		"uniqueName": "Suzerain de droit",
-		"uniques": ["May heal outside of friendly territory","[+5 Gold] from each Trade Route","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-100]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["May heal outside of friendly territory","[-50]% maintenance costs","[+1 Gold] from each Trade Route","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-100]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-		"spyNames": ["Jean","Buck","Georges"]
+		"spyNames": ["Jean","Buck","Georges","Goliath"]
 	},
 	{
 		"name": "Montfort",
@@ -295,7 +295,7 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-		"spyNames": ["Léandre","Cornault","Poäna","Orthance"]
+		"spyNames": ["Léandre","Cornault","Poäna","Orthance","Eleanor","Ilhiam"]
 	},
 	{
 		"name": "Royaume de France",
@@ -327,12 +327,12 @@
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,184,33],
 		"uniqueName": "Roi pour unir",
-		"uniques": ["[-100]% maintenance on road & railroads","[+5 Gold] from each Trade Route","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-100]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[-100]% maintenance on road & railroads","[+1 Gold] from each Trade Route","[-50]% maintenance costs","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-100]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-		"spyNames": ["La Rose"]
+		"spyNames": ["La Rose","Le Bel","Gentilhomme","Roland"]
 	},
 	{
 		"name": "Alençon",
