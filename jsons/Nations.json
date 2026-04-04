@@ -364,7 +364,7 @@
 
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,255,75],
-		"uniqueName": "Reigner et Servir",
+		"uniqueName": "Raid Normand",
 		"uniques": ["No movement cost to pillage <for [Melee] units>","When conquering an encampment, earn [15] Gold and recruit a Barbarian unit <with [67]% chance>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Alençon","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -401,7 +401,7 @@
 
 		"outerColor": [8, 8, 166],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Reigner et Servir",
+		"uniqueName": "Le peuple avant tout",
 		"uniques": ["[+1 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Ecommoy","La Suze","Le Grand Lucé","Fillé","Guécélard","Montval","Teloché","St Mars","Pontvallain","Mayet","Courdemanche","Loir en Val",
 			"Lhomme","Luceau","Jupilles","Belin","Marigné","Oizé","Recueil","La Noirie","Petit Raidis",
@@ -474,7 +474,7 @@
 
 		"outerColor": [81, 0, 137],
 		"innerColor": [213,249,255],
-		"uniqueName": "Reigner et Servir",
+		"uniqueName": "Archers de Renom",
 		"uniques": ["[{Military} {Archery}] units gain the [Shock I] promotion","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
