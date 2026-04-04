@@ -79,6 +79,7 @@
 	},
 	{
 		"name": "Normand",
+		"uniqueTo": "Alençon",
 		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 3,
