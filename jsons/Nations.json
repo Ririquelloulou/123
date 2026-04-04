@@ -546,8 +546,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [139,32,23],
-		"innerColor": [27,33,96],
+		"outerColor": [28,51,119],
+		"innerColor": [255, 56, 56],
 		"uniqueName": "L'union fait la force",
 		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great person generation","[-300]% unhappiness from the number of cities","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
