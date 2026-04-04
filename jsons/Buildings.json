@@ -95,4 +95,13 @@
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
 	},
+	{
+		"name": "Fabrique à Rillettes",
+		"uniqueTo": "Montfort",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Food] from [Cattle] tiles [in this city]"],
+		"requiredTech": "Mathematics"
+	},
 ]
