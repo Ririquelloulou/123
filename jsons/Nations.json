@@ -402,7 +402,7 @@
 		"outerColor": [8, 8, 166],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Le peuple avant tout",
-		"uniques": ["[+1 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","[-25]% Culture cost of natural border growth <when constructing> [Faith] buildings [in all cities]","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+1 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Ecommoy","La Suze","Le Grand Lucé","Fillé","Guécélard","Montval","Teloché","St Mars","Pontvallain","Mayet","Courdemanche","Loir en Val",
 			"Lhomme","Luceau","Jupilles","Belin","Marigné","Oizé","Recueil","La Noirie","Petit Raidis",
 			"Outillé","Croix Genet"]
