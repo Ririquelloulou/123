@@ -78,6 +78,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Normand",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 12,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Amphibious"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Ravageur",
 		"unitType": "Sword",
 		"replaces": "Berserker",
