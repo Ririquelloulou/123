@@ -102,7 +102,7 @@
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
+		"upgradesTo": "Piquier d'Embuscade",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>"],
 		"attackSound": "metalhit"
 	},
