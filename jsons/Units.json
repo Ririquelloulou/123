@@ -93,6 +93,34 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Guerrier Cénérien",
+		"uniqueTo": "Alpes Mancelles",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Piquier d'Embuscade",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Piquier d'Embuscade",
+		"uniqueTo": "Alpes Mancelles",
+		"replaces": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Ravageur",
 		"unitType": "Sword",
 		"replaces": "Berserker",
