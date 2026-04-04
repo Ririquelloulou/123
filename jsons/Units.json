@@ -27,6 +27,18 @@
 		"attackSound": "missile"
 	},
 	{
+		"name": "Milice Paysanne",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 45,
+		"requiredTech": "Guilds",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Coupe Gorge",
 		"unitType": "Sword",
 		"movement": 2,
