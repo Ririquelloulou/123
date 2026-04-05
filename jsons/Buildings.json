@@ -73,7 +73,7 @@
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Limited to [5] per Civilization"]
 	},
 	{
 		"name": "Champ de tir",
@@ -103,5 +103,14 @@
 		"hurryCostModifier": 50,
 		"uniques": ["[+1 Food] from [Cattle] tiles [in this city]"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Tour",
+		"uniqueTo": "Tours",
+		"cityStrength": 10,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction",
+		"uniques": ["Destroyed when the city is captured","Limited to [3] per Civilization"]
 	},
 ]
