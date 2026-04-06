@@ -81,11 +81,11 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+50]% Production when constructing [Archery] units [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+20]% Production when constructing [Archery] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Fabrique d'armes",
+		"name": "Fabrique d'Armes",
 		"uniqueTo": "Maison Garnier",
 		"maintenance": 2,
 		"production": 2,
