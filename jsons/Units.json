@@ -165,4 +165,19 @@
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Archer Fléchois",
+		"uniqueTo": "La Flèche",
+		"replaces": "Composite Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 95,
+		"promotions": ["Extended Range"],
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
 ]
