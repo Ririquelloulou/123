@@ -44,7 +44,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 120,
-		"uniques": ["[+250]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking"]
+		"uniques": ["[+500]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking","Limited to [3] per Civilization"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 	},
