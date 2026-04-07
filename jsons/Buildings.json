@@ -23,7 +23,7 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Impôts seigneurial",
+		"name": "Impôt Seigneurial",
 		"isNationalWonder": true,
 		"happiness": -15,
 		"uniques": ["[+15]% [Gold] [in all cities]"],
@@ -31,7 +31,7 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Impôts sur les Cerfs",
+		"name": "Impôt sur les Cerfs",
 		"happiness": -4,
 		"uniques": ["[+10]% [Gold] [in this city]"],
 		"cost": 0,
@@ -162,5 +162,15 @@
 		"maintenance": 1,
 		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Impôt du Tyran",
+		"isNationalWonder": true,
+		"replaces": "Impôt Seigneurial",
+		"uniqueTo": "La Bannière Pourpre",
+		"happiness": -15,
+		"uniques": ["[+20]% [Gold] [in all cities]"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
 	},
 ]
