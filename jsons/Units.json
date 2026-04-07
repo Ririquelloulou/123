@@ -227,4 +227,20 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Terreur Pourpre",
+		"unitType": "Mounted",
+		"uniqueTo": "La Bannière Pourpre",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 12,
+		"cost": 100,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
+			"[-20]% Strength for enemy [Military] units in adjacent [All] tiles","[+20]% Strength <vs [Wounded] units>"],
+		"hurryCostModifier": 20,
+		"attackSound": "elephant"
+	},
 ]
