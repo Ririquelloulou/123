@@ -23,7 +23,7 @@
 		"range": 6,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["May capture killed [Military] units","When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs"],
+		"uniques": ["May capture killed [Military] units","When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs","Limited to [2] per Civilization"],
 		"attackSound": "missile"
 	},
 	{
@@ -44,7 +44,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 120,
-		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking"]
+		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking","Limited to [3] per Civilization"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 	},
