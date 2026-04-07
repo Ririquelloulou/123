@@ -135,4 +135,15 @@
 		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
+	{
+		"name": "Eglise",
+		"uniqueTo": "Ecommoy",
+		"faith": 2,
+		"happiness": 1,
+		"requiredBuilding": "Temple",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
 ]
