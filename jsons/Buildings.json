@@ -147,4 +147,20 @@
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
+	{
+		"name": "Atelier de Siège",
+		"uniqueTo": "Royaume de France",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Atelier de Siège ",
+		"uniqueTo": "Royaume d'Angleterre",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Engineering"
+	},
 ]
