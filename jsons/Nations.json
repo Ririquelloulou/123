@@ -480,7 +480,7 @@
 		"name": "Sillé-le-Guillaume",
 		"leaderName": "Seigneur",
 		"adjective": ["Seigneur de Sillé-le-Guillaume"],
-		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"startBias": ["[Lakes]","Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
