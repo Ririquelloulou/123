@@ -120,7 +120,7 @@
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[-20]% Culture cost of natural border growth [in this city]","Destroyed when the city is captured"],
+		"uniques": ["[-20]% Culture cost of natural border growth [in this city]","Limited to [1] per Civilization","Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 ]
