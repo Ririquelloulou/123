@@ -173,4 +173,15 @@
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
+	{
+		"name": "24H Charettes",
+		"uniqueTo": "Sarthe",
+		"gold": 2,
+		"culture": 1,
+		"happiness": 1,
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "The Wheel",
+	},
 ]
