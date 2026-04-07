@@ -23,7 +23,7 @@
 		"range": 6,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs"],
+		"uniques": ["May capture killed [Military] units","When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
 	{
@@ -44,7 +44,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 120,
-		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking","Limited to [3] per Civilization"]
+		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Invisible to non-adjacent units <in [Hill] tiles>","Can move after attacking"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 	},
@@ -211,5 +211,20 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Brezelourd",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Maison Garnier",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["No damage penalty <when wounded>","Great Generals I"],
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
 	},
 ]
