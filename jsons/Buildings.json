@@ -113,4 +113,14 @@
 		"requiredTech": "Construction",
 		"uniques": ["Destroyed when the city is captured","Limited to [3] per Civilization"]
 	},
+	{
+		"name": "Les Affranchis",
+		"uniqueTo": "La Flèche",
+		"specialistSlots": {"Artist": 3},
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[-20]% Culture cost of natural border growth [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
 ]
