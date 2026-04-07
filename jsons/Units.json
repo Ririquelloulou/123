@@ -180,4 +180,36 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Cavalerie des Cerfs Argentés",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Les Cerfs Argentés",
+		"movement": 4,
+		"strength": 20,
+		"cost": 110,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Cavalier du Perche",
+		"unitType": "Mounted",
+		"uniqueTo": "La Ferté Bernard",
+		"replaces": "Horseman",
+		"movement": 5,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"promotions": ["Charge"],
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]
