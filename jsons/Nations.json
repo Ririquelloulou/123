@@ -366,10 +366,9 @@
 		"innerColor": [255,255,75],
 		"uniqueName": "Raid Normand",
 		"uniques": ["No movement cost to pillage <for [Melee] units>","When conquering an encampment, earn [15] Gold and recruit a Barbarian unit <with [67]% chance>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Alençon","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Alençon","Mamers","Neufchâtel","Villeneuve","Bourg le Roi","Rouessé","Oisseau-le-Petit","Louvigny","Fyé","Doucel","Dangeul","Piacé","Courgains","Monhoudou",
+			"Marolles","Chérancé","Ancinnes","Grandchamp","Les Mées","St Aignan","Fourniquet","Dissé","Jauzé",
+			"Pizieux","Corneveil","Les Biards","La Fournière"]
 		},
 		{
 		"name": "Ecommoy",
@@ -440,9 +439,7 @@
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Ferté Bernard","Bonnétable","Nogent-le-Bernard","Beaufay","Vibraye","La Bosse","Le Luard","Tuffé Val","Lamnay","Cormes","Théligny",
-			"Montmirail","Avezé","Cherré","La Monge","Böessé","Mousseries","Le Peloi","Le Buron","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"Montmirail","Avezé","Cherré","La Monge","Böessé","Mousseries","Le Peloi","Le Buron"]
 		},
 		{
 		"name": "La Flèche",
@@ -476,10 +473,8 @@
 		"innerColor": [213,249,255],
 		"uniqueName": "Archers de Renom",
 		"uniques": ["[{Military} {Archery}] units gain the [Shock I] promotion","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["La Flèche","Le Lude","Malicorne","Villaines Malicorne","Clermont Créans","Luché Pringé","Le Bailleuil","Mézeray","La Fontaine","Mansigné",
+			"Ligron","Crosmières","La Gilberdière","Courcelles","Bousse","Château","Belouze","La Jeterie","Juisses","Les Musses"]
 		},
 		{
 		"name": "Sillé-le-Guillaume",
@@ -513,10 +508,9 @@
 		"innerColor": [28,51,119],
 		"uniqueName": "Reigner et Servir",
 		"uniques": ["Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Sillé-le-Guillaume","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Sillé-le-Guillaume","Conlie","Rouez","Tennie","Parennes","Rouessé Vassé","L'Etang Neuf","Vernie","Crissé","Pezé-le-Robert",
+			"Sucé","Neuvillalais","Pont de Monet","Ségrie","Montreuil-le-Chétif","Salaines","Val de Pierre","Les Douzes","Courgoult",
+			"Verniettes","L'Habit","Grand Eguille","Bois Boute","Grand Verger"]
 		},
 		{
 		"name": "Sarthe",
@@ -550,7 +544,7 @@
 		"innerColor": [255, 56, 56],
 		"uniqueName": "L'union fait la force",
 		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great person generation","[-300]% unhappiness from the number of cities","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["La Flèche","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+		"cities": ["Beaumont","Le Lude","Mamers","Ballon","St-Calais","La Bazoge","Joué-l'Abbé","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
