@@ -123,4 +123,16 @@
 		"uniques": ["[-20]% Culture cost of natural border growth [in this city]","Limited to [1] per Civilization","Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
+	{
+		"name": "Scierie",
+		"replaces": "Workshop",
+		"uniqueTo": "La Ferté Bernard",
+		"cost": 100,
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
 ]
