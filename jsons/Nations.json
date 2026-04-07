@@ -472,7 +472,7 @@
 		"outerColor": [81, 0, 137],
 		"innerColor": [213,249,255],
 		"uniqueName": "Archers de Renom",
-		"uniques": ["[{Military} {Archery}] units gain the [Shock I] promotion","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+15]% Strenght for [Archery] units","[{Military} {Archery}] units gain the [Shock I] promotion","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Le Lude","Malicorne","Villaines Malicorne","Clermont Créans","Luché Pringé","Le Bailleuil","Mézeray","La Fontaine","Mansigné",
 			"Ligron","Crosmières","La Gilberdière","Courcelles","Bousse","Château","Belouze","La Jeterie","Juisses","Les Musses"]
 		},
