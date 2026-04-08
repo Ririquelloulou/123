@@ -187,10 +187,9 @@
 	{
 		"name": "Lycée Bellevue",
 		"culture": 1,
-		"greatPersonPoints": {"Great Artist": 1},
 		"isWonder": true,
-		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Great Generals I] promotion"],
 		"requiredTech": "Education",
-		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+		"quote": "'Oh ces Bellevusiens... Ils enchainent les blocus et fument surtout de la beuh. Je parie qu'aucun d'entre eux n'aura un grand avenir. J'en mets ma main à coupé!' - Un énième ignard, qui a perdu sa main."
 	},
 ]
