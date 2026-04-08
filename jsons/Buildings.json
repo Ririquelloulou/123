@@ -184,4 +184,13 @@
 		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "The Wheel",
 	},
+	{
+		"name": "Lycée Bellevue",
+		"culture": 1,
+		"greatPersonPoints": {"Great Artist": 1},
+		"isWonder": true,
+		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
+		"requiredTech": "Education",
+		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+	},
 ]
