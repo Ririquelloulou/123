@@ -617,7 +617,7 @@
 		"outerColor": [255,168,168],
 		"innerColor": [84,26,26],
 		"uniqueName": "Tel le phoenix",
-		"uniques": ["Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+1 Production, +1 Culture] from all [Culture] buildings","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Tours","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
