@@ -262,10 +262,10 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Héros de Loué",
+		"name": "Héros de Sablé",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Loué",
+		"uniqueTo": "Sablé",
 		"movement": 2,
 		"strength": 12,
 		"cost": 56,
