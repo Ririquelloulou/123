@@ -261,4 +261,19 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Loué",
+		"movement": 2,
+		"strength": 12,
+		"cost": 56,
+		"promotions": ["Besiege"],
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
 ]
