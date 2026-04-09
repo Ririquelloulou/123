@@ -276,4 +276,18 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Eclaireur Pèlerin",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Châtelaine",
+		"movement": 2,
+		"strength": 3,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Withdraws before melee combat <with [80]% chance>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
 ]
