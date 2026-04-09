@@ -262,7 +262,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Spearman",
+		"name": "Héros de Loué",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Loué",
