@@ -282,7 +282,7 @@
 		"replaces": "Scout",
 		"uniqueTo": "Châtelaine",
 		"movement": 2,
-		"strength": 3,
+		"strength": 5,
 		"cost": 25,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
