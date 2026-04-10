@@ -208,6 +208,29 @@
         "uniques": ["Only available <when espionage is enabled>", "[-75]% enemy spy effectiveness [in this city]",
             "[-25]% enemy spy effectiveness [in all cities]"],
         "requiredTech": "Computers",
-        "quote": "'Distrust and caution are the parents of security.' - Benjamin Franklin"
+        "quote": "'L'appat du gain révèle la vraie nature de ceux qui t'entourent. Ouvres les yeux, et fais le tris' - Comte du Maine au seigneur Lothaire dans 'La Guerre du Trône', écrit par moi-même lol"
     },
+	{
+		"name": "Abbaye de l'Epau",
+		"replaces": "Great Mosque of Djenne",
+		"culture": 1,
+		"faith": 3,
+		"greatPersonPoints": {"Great Artist": 1},
+		"isWonder": true,
+		"uniques": ["Gain a free [Monastery] [in this city]", "Only available <when religion is enabled>",
+            "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
+            "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
+		"requiredTech": "Theology",
+		"quote": "'Qui peut rêver plus agréable demeure que la Foi en son coeur?.' - Reine Bérengère de Navarre"
+	},
+	{
+		"name": "Cathédrale St Julien",
+		"replaces": "Hagia Sophia",
+		"faith": 3,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Only available <when religion is enabled>"],
+		"requiredTech": "Theology",
+		"quote": "'De part tous les pays que j'ai pu traverser, c'est en ce lieu que j'aime me retrouver.' - Seigneur Lothaire dans 'Histoire des Loups Chevronnés', part Cénérion Pacius"
+	},
 ]
