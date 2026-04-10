@@ -212,7 +212,6 @@
     },
 	{
 		"name": "Abbaye de l'Epau",
-		"replaces": "Great Mosque of Djenne",
 		"culture": 1,
 		"faith": 3,
 		"greatPersonPoints": {"Great Artist": 1},
@@ -225,7 +224,6 @@
 	},
 	{
 		"name": "Cathédrale St Julien",
-		"replaces": "Hagia Sophia",
 		"faith": 3,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
