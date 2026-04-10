@@ -43,6 +43,16 @@
 		"requiredTech": "Trapping",
 	},
 	{
+		"name": "Salle secrète",
+		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
+		"requiredTech": "Drama and Poetry",
+	},
+	{
+		"name": "Réseau d'informateurs",
+		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
+		"requiredTech": "Education",
+	},
+	{
 		"name": "Ecurie de Thelma",
 		"replaces": "Stable",
 		"uniqueTo": "Les Cerfs Argentés"
