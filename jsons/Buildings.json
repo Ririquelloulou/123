@@ -108,7 +108,7 @@
 		"name": "Tapisserie d'Histoire",
 		"uniqueTo": "Montfort",
 		"gold": 2,
-		"uniques": ["[3] [Culture] from every [All Road] in the city added to [Fort]"],
+		"uniques": ["[+3 Culture] from every [All Road] in the city added to [Fort]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting"
 	},
