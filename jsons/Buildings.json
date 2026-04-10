@@ -205,7 +205,7 @@
 	{
         "name": "Palais du Gribatoire",
         "isWonder": true,
-        "uniques": ["Only available <when espionage is enabled>", "[-50]% enemy spy effectiveness [in this city]",
+        "uniques": ["Only available <when espionage is enabled>", "[-75]% enemy spy effectiveness [in this city]",
             "[-25]% enemy spy effectiveness [in all cities]"],
         "requiredTech": "Computers",
         "quote": "'Distrust and caution are the parents of security.' - Benjamin Franklin"
