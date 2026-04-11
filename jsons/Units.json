@@ -267,7 +267,7 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Sablé",
 		"movement": 2,
-		"strength": 12,
+		"strength": 13,
 		"cost": 56,
 		"promotions": ["Besiege"],
 		"requiredTech": "Bronze Working",
