@@ -364,4 +364,21 @@
 		"promotions": ["Sentry"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Légende de Montfort",
+		"unitType": "Sword",
+		"replaces": "Warrior",
+		"uniqueTo": "Montfort",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
 ]
