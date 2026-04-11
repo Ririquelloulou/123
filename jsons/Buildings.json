@@ -213,7 +213,7 @@
 		"isNationalWonder": true,
 		"cost": "125",
 		"culture": 6,
-		"uniques": ["Only available <if [Amphitheate] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [15] per owned city"],
+		"uniques": ["Only available <if [Amphitheater] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [15] per owned city"],
 		"requiredTech": "Physics"
 	},
 	{
