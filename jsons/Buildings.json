@@ -208,6 +208,15 @@
 		"requiredTech": "The Wheel"
 	},
 	{
+		"name": "Porte St Julien",
+		"uniqueTo": "La Ferté Bernard",
+		"isNationalWonder": true,
+		"cost": "125",
+		"culture": 6,
+		"uniques": ["Only available <if [Amphitheate] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [15] per owned city"],
+		"requiredTech": "Physics"
+	},
+	{
 		"name": "Lycée Bellevue",
 		"culture": 1,
 		"isWonder": true,
