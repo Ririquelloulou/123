@@ -304,4 +304,18 @@
 		"promotions": ["Ignore terrain cost","Sentry"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Archer Anglais",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 10,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "Royaume d'Angleterre",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
 ]
