@@ -195,6 +195,19 @@
 		"requiredTech": "The Wheel",
 	},
 	{
+		"name": "Coco Plage",
+		"replaces": "Water Mill",
+		"uniqueTo": "Sillé-le-Guillaume",
+		"food": 1,
+		"gold": 2,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},
+	{
 		"name": "Lycée Bellevue",
 		"culture": 1,
 		"isWonder": true,
