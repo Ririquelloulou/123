@@ -289,7 +289,7 @@
 
 		"outerColor": [184, 0, 0],
 		"innerColor": [65, 141, 254],
-		"uniqueName": "Mon courage fait ma force",
+		"uniqueName": "Nous ne serons plus chassés. Nous sommes les prédateurs",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
