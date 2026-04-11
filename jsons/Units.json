@@ -319,7 +319,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Cavalerie Française",
+		"name": "Cavalier Franc",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
 		"uniqueTo": "Royaume de France",
