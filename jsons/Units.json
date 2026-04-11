@@ -51,13 +51,14 @@
 	{
 		"name": "Rodeur",
 		"unitType": "Archery",
+		"replaces": "Crossbowman",
 		"uniqueTo": "Les Loups Chevronnés",
 		"movement": 2,
-		"strength": 9,
-		"rangedStrength": 23,
-		"cost": 150,
+		"strength": 10,
+		"rangedStrength": 21,
+		"cost": 140,
 		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Withdraws before melee combat <with [33]% chance>","No defensive terrain bonus"],
-		"requiredTech": "Education",
+		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "arrow"
