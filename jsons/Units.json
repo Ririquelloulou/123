@@ -319,6 +319,21 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Lancier Plantagenêt",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Royaume d'Angleterre",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Sentry"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Cavalier Franc",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
@@ -333,5 +348,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Lancier Franc",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Royaume de France",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Sentry"],
+		"attackSound": "metalhit"
 	},
 ]
