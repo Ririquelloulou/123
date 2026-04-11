@@ -104,7 +104,7 @@
 
 		"outerColor": [37, 43, 33],
 		"innerColor": [255,0,0],
-		"uniqueName": "Votre pourpre me va si bien.",
+		"uniqueName": "'Votre pourpre me va si bien'",
 		"uniques": ["Heals [20] damage if it kills a unit","[+20]% Health from pillaging tiles","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"]
 		"cities": ["Savigné l'Evêque","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
