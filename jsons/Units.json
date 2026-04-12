@@ -293,6 +293,20 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Porte Etendard",
+		"unitType": "Civilian",
+		"uniqueTo": "La Rose des Cendres",
+		"replaces": "Great General",
+		"uniques": [
+            "[+15]% Strength bonus for [Military] units within [3] tiles",
+			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+	{
 		"name": "Pisteur",
 		"unitType": "Scout",
 		"replaces": "Scout",
