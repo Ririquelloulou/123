@@ -469,8 +469,8 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [157,172,255],
-		"innerColor": [255, 252, 3],
+		"outerColor": [81, 0, 137],
+		"innerColor": [213,249,255],
 		"uniqueName": "Archers de Renom",
 		"uniques": ["[+15]% Strength <for [Archery] units>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Flèche","Le Lude","Malicorne","Villaines Malicorne","Clermont Créans","Luché Pringé","Le Bailleuil","Mézeray","La Fontaine","Mansigné",
