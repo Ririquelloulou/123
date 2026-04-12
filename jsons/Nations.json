@@ -435,7 +435,7 @@
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [9, 112, 84],
-        "innerColor": [27,33,96],
+        "innerColor": [245,248,185],
 		"uniqueName": "Connue et Respectée",
 		"uniques": ["[+1 Culture] from each Trade Route","[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Ferté Bernard","Bonnétable","Nogent-le-Bernard","Beaufay","Vibraye","La Bosse","Le Luard","Tuffé Val","Lamnay","Cormes","Théligny",
