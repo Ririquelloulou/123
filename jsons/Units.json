@@ -400,7 +400,7 @@
 	{
 		"name": "Spadassin Anglais",
 		"unitType": "Sword",
-		"replaces": "Longswordman",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Royaume de France",
 		"movement": 2,
 		"strength": 23,
@@ -415,7 +415,7 @@
 	{
 		"name": "Spadassin Français",
 		"unitType": "Sword",
-		"replaces": "Longswordman",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Royaume d'Angleterre",
 		"movement": 2,
 		"strength": 23,
