@@ -240,4 +240,22 @@
 		"requiredTech": "Theology",
 		"quote": "'De part tous les pays que j'ai pu traverser, c'est en ce lieu que j'aime me retrouver.' - Seigneur Lothaire dans 'Histoire des Loups Chevronnés', part Cénérion Pacius"
 	},
+	{
+		"name": "Petit Conseil de Guerre",
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[2] free [Catapult] units appear"],
+		"requiredTech": "Drama and Poetry",
+		"quote": "'Mesurer, calculer, anticiper, ne rien laisser au hasard.' - Appel à la réunion des Tréfins suite à la mort du Comte du Maine, Maison Garnier"
+	},
+	{
+		"name": "Grand Conseil de Guerre",
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Gain a free [Castle] [in this city]","[1] free [Trebuchet] units appear"],
+		"requiredTech": "Chivalry",
+		"quote": "'Frapper fort n'est pas une question de force, mais une question de tempo.' - Seigneur Lothaire"
+	},
 ]
