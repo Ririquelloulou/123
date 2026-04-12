@@ -398,7 +398,7 @@
 		]
 	},
 	{
-		"name": "Spadassin Anglais",
+		"name": "Spadassin Français",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Royaume de France",
@@ -413,7 +413,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Spadassin Français",
+		"name": "Spadassin Anglais",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Royaume d'Angleterre",
