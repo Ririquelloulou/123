@@ -587,9 +587,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 		},
 		{
-		"name": "Châtelaine",
-		"leaderName": "Dame Su",
-		"adjective": ["Dame Su de "],
+		"name": "La Rose des Cendres",
+		"leaderName": "Châtelaine Suzanne",
+		"adjective": ["Châtelaine Suzanne, la Rose des Cendres"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
