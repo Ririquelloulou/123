@@ -282,7 +282,7 @@
 		"name": "Eclaireur Pèlerin",
 		"unitType": "Scout",
 		"replaces": "Scout",
-		"uniqueTo": "Châtelaine",
+		"uniqueTo": "La Rose des Cendres",
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
