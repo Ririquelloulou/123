@@ -397,4 +397,34 @@
 			{"text": "This is your basic, club-swinging fighter."}
 		]
 	},
+	{
+		"name": "Spadassin Anglais",
+		"unitType": "Sword",
+		"replaces": "Longswordman",
+		"uniqueTo": "Royaume de France",
+		"movement": 2,
+		"strength": 23,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Spadassin Français",
+		"unitType": "Sword",
+		"replaces": "Longswordman",
+		"uniqueTo": "Royaume d'Angleterre",
+		"movement": 2,
+		"strength": 23,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "metalhit"
+	},
 ]
