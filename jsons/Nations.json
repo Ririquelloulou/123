@@ -65,7 +65,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [70, 0, 118],
+		"outerColor": [61, 0, 109],
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Une culture forte et singulière",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
