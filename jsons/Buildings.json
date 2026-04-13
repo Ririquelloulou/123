@@ -75,15 +75,15 @@
 		"requiredTech": "Civil Service"
 	},
 	{
-		"name": "Muraille",
+		"name": "Muraille Gallo-romaine",
 		"uniqueTo": "Maison Garnier",
-		"replaces": "Walls",
-		"cost": 65,
-		"cityStrength": 6,
-		"cityHealth": 100,
-		"hurryCostModifier": 25,
+		"culture": 2,
+		"isWonder": true,
+		"cityStrength": 7,
+		"cityHealth": 75,		
+		"uniques": ["Gain a free [Walls] [in this city]"],
 		"requiredTech": "Masonry",
-		"uniques": ["Limited to [5] per Civilization"]
+		"quote": "Un chef d'oeuvre de construction qui suscita l'admiration de toute la Gaule, et fit parler de lui jusqu'à Rome. - Un certain guide touristique"
 	},
 	{
 		"name": "Champ de tir",
