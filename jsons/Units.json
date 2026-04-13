@@ -194,7 +194,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"promotions": ["Home Sweet Home"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-15]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
 	},
 	{
