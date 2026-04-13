@@ -98,12 +98,16 @@
 		"name": "Fabrique d'Armes",
 		"uniqueTo": "Maison Garnier",
 		"maintenance": 2,
-		"production": 2,
-		"specialistSlots": {"Engineer": 1},
-		"uniques":["[+50]% [Iron] resource production [in this city]"],
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Merchant": 1},
+		"uniques":["[2] [Iron] resource production [in this city]","Limited to [1] per Civilization"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Bureau",
+		"uniqueTo": "Maison Garnier",
+		"uniques":["[+25]% Production towards any buildings that already exist in the Capital","Limited to [1] per Civilization"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Fabrique à Rillettes",
