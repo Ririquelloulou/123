@@ -253,7 +253,7 @@
 		"outerColor": [255,120,0],
 		"innerColor": [81,0,9],
 		"uniqueName": "L'irréprochable est un calcul",
-		"uniques": ["[-50]% City-State Influence degradation","City-State Influence recovers at twice the normal rate","[+1 Production] from every [Strategic resource]","Gain a free [Muraille Gallo-romaine] [in the capital] <after discovering [Masonry]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+25]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[-50]% City-State Influence degradation","City-State Influence recovers at twice the normal rate","[+1 Production] from every [Strategic resource]","Gain a free [Muraille Gallo-romaine] [in capital] <after discovering [Masonry]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+25]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Le Mans","Les Tréfins","Allones","Arnages","Coulaines","Pruillé","Mulsanne","Rouillon","Spay","La Chappelle-St-Aubin","St Saturnin","Ruaudin","Sargé","La Colline","Maisons Rouges","Fays","La Croix","Chauffour","Etival",
 			"Loupeland","Voivres","Trangé","La Futaie","Pizieux","La Monnerie","Malanderie","Q'Mazea","Le Coudray","Le Verdillon","La Louverie",
 			"La Payardière","Le Boulay","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
