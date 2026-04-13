@@ -79,7 +79,7 @@
 		"uniqueTo": "Maison Garnier",
 		"culture": 2,
 		"isWonder": true,
-		"cityStrength": 7,
+		"cityStrength": 6,
 		"cityHealth": 75,		
 		"uniques": ["Gain a free [Walls] [in this city]","[+100]% Gold given to enemy if city is captured","[+33]% weight to this choice for AI decisions"],
 		"requiredTech": "Masonry",
