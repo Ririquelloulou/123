@@ -95,11 +95,15 @@
 		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Fabrique d'Armes",
+		"name": "Workshop",
+		"replaces": "Workshop",
 		"uniqueTo": "Maison Garnier",
 		"maintenance": 2,
-		"specialistSlots": {"Merchant": 1},
-		"uniques":["[2] [Iron] resource production [in this city]","Limited to [1] per Civilization"],
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"uniques":["[+50]% [Iron] resource production [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
