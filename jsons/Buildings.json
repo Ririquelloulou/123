@@ -95,7 +95,7 @@
 		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Workshop",
+		"name": "Fabrique d'Armes",
 		"replaces": "Workshop",
 		"uniqueTo": "Maison Garnier",
 		"maintenance": 2,
