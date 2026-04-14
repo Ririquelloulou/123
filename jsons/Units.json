@@ -44,7 +44,7 @@
 		"movement": 3,
 		"strength": 5,
 		"cost": 120,
-		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [All] tiles>","Can move after attacking","Limited to [3] per Civilization"]
+		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [All] tiles>","Can move after attacking","[-100]% XP gained from combat","Limited to [1] per Civilization"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 	},
