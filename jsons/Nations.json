@@ -434,7 +434,7 @@
 		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [134,238,214],
+		"outerColor": [157,172,255],
         "innerColor": [245,248,185],
 		"uniqueName": "Connue et Respectée",
 		"uniques": ["[+1 Culture] from each Trade Route","[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
