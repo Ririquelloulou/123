@@ -551,8 +551,8 @@
 		},
 		{
 		"name": "Tours",
-		"leaderName": "Comte",
-		"adjective": ["Comte de Tours"],
+		"leaderName": "Comtesse",
+		"adjective": ["Comtesse de Tours"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
