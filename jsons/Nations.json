@@ -31,7 +31,7 @@
 		"innerColor": [255,184,33],
 		"uniqueName": "Suzerain de droit",
 		"uniques": ["May heal outside of friendly territory","[-50]% maintenance costs","[+1 Gold] from each Trade Route","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-100]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt", "L'Epau", "Bordeaux","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt","L'Epau","Poitiers","Gascogne","L'Epau","Campement de Fillé","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -69,10 +69,8 @@
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Une culture forte et singulière",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Montfort","Lombron","Connerré","Beillé","Le Pissot","Bresteau","La Chaussé","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Montfort","Connerré","Lombron","Beillé","Dollon","Tuffé",,"Le Pissot","Le Luart","St Corneil","Sillé-le-Philippe","Torcé-en-Vallé","Lavaré","Torigné","Duneau","Bresteau","La Chaussé",
+			"La Ratée","Fatines","Saussay","Le Pressoire","Le Gué d'Arancé","Les Cassoires","Les Joizières","Loresse","Petite Landes","Brêteau","Le Closeau"]
 	},
 	{
 		"name": "La Bannière Pourpre",
