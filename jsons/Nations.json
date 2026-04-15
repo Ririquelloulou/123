@@ -544,7 +544,7 @@
 		"innerColor": [255, 56, 56],
 		"uniqueName": "L'union fait la force",
 		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great person generation","[-300]% unhappiness from the number of cities","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Beaumont","Mamers","Le Lude","Ballon","St-Calais","La Bazoge","Joué-l'Abbé","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
+		"cities": ["Beaumont","Mamers","Le Lude","Ballon","Ste Jamme","St-Calais","La Bazoge","Joué-l'Abbé","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
@@ -580,11 +580,10 @@
 		"outerColor": [157,172,255],
 		"innerColor": [255, 252, 3],
 		"uniqueName": "Haute et Forte",
-		"uniques": ["[15] units cost no maintenance","Gain an extra spy","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Tours","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": ["[15] units cost no maintenance","Gain an extra spy","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-200]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Tours","Vouvray","Château la Vallière","Villebourg","St-Paterne-Racan","Marçon","Dissay","Beuil en Touraine","Bruère-sur-Loir","Aubigné-Racan","Vaas",
+			"Montabon","Neuvy-le-Roi","Chenu","Gué du Roi","Chahaignes","Lavernat","Verneil","Grandsart","Gringolerie","Fougeraie","Loiray",
+			"Le Souchet","Ruisseau"]
 		},
 		{
 		"name": "La Rose des Cendres",
