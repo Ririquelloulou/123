@@ -15,16 +15,11 @@
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "Salutations, vassal.",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "Vous semblez avoir oubliez qui était votre suzerain...",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["Certainement pas!"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Un accord solidifie les peuples. Vous acceptez?",
 
 		"outerColor": [153,5,3],
@@ -53,16 +48,11 @@
 		"introduction": "Bonjour à vous. Je suis Dame Zina, châtelaine de Monfort. Mon devoir est de protéger tous ceux qui appartiennent à la chatellenie de MonMon peuple dit que je rayonne. Et je le ferai pour tous ceux qui peuvent être utiles.",
 		
 		"neutralHello": "Comment allez-vous aujourd'hui?",
-		"neutralLetsHearIt": ["Dîtes m'en plus."],
-		"neutralNo": ["Je crains de devoir refuser."],
-		"neutralYes": ["Ceci est parfait!"],
 
 		"hateHello": "Ah, vous... Je vous oubliais.",
-		"hateLetsHearIt": ["Qu'elle est votre réponse?"],
-		"hateNo": ["Je vous demande pardon?"],
-		"hateYes": ["Très bien..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [61, 0, 109],
@@ -88,16 +78,11 @@
 		"introduction": "Qu'est-ce qu'un seigneur sans terre? Rien de plus qu'un pauvre homme attaché à ses armoiries.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "Ah c'est vous.",
-		"hateLetsHearIt": ["Parlez."],
-		"hateNo": ["Vous pouvez rêver!"],
-		"hateYes": ["Vous êtes raisonnable."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [37, 43, 33],
@@ -125,16 +110,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Ah c'est vous! Prenez place et parlons.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Regardez qui voilà...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [51,25,0],
@@ -161,16 +141,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Qui va là! Ah c'est vous! Prenez place et parlons.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Haha mais regardez qui voilà... Que me veut-il celui-là?",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [43, 88, 46],
@@ -178,9 +153,7 @@
 		"uniqueName": "Libre par nature",
 		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Malessard","La Poulainerie","Le Savignéen","Chataigné","Les Brûlés","Morionnière","La Garelle","Petit Malessard","Beauchamp",
-			"La Noé","Patisseau","Groie","Bel Saule","Grand Haunay","Commune","Sac à Crotte","Vieille Bique","Mhmm Pépite de Chocolat","Trouve Un Nom Toi Même Si Tu Es Si Malin Peau De Lapin",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"La Noé","Patisseau","Groie","Bel Saule","Grand Haunay","Commune","Sac à Crotte","Vieille Bique","Mhmm Pépite de Chocolat","Trouve Un Nom Toi Même Si Tu Es Si Malin Peau De Lapin"]
 		"spyNames": ["Gabriel","Thiault","Julienne","Miriame"]
 	},
 	{
@@ -199,16 +172,11 @@
 		"introduction": "Mon peuple vit dans ces montagnes depuis des siècles. Et comme la montagne il abrite une force aux ressources inépuisables.",
 		
 		"neutralHello": "C'est une belle journée pour être vivant.",
-		"neutralLetsHearIt": ["Avancez-vous."],
-		"neutralNo": ["Merci, mais au nom de mon peuple je refuse votre offre."],
-		"neutralYes": ["Très bien."],
 
 		"hateHello": "Vous osez venir ici!?",
-		"hateLetsHearIt": ["Parlez."],
-		"hateNo": ["Ne vous moquez pas de moi."],
-		"hateYes": ["Bien."],
 		
-		"afterPeace": "La paix est le meilleure chemin. Nos morts méritent de funérailles honorables.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
 
 		"outerColor": [65, 141, 254],
@@ -235,16 +203,11 @@
 		"introduction": "Mon peuple vit dans ces montagnes depuis des siècles. Et comme la montagne il abrite une force aux ressources inépuisables.",
 		
 		"neutralHello": "C'est une belle journée pour être vivant.",
-		"neutralLetsHearIt": ["Avancez-vous."],
-		"neutralNo": ["Merci, mais au nom de mon peuple je refuse votre offre."],
-		"neutralYes": ["Très bien."],
 
 		"hateHello": "Vous osez venir ici!?",
-		"hateLetsHearIt": ["Parlez."],
-		"hateNo": ["Ne vous moquez pas de moi."],
-		"hateYes": ["Bien."],
 		
-		"afterPeace": "La paix est le meilleure chemin. Nos morts méritent de funérailles honorables.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
 
 		"outerColor": [255,120,0],
@@ -270,16 +233,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Bonjour.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Soyez agréable ou je vous fais jeter dehors.",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "L'échange est la base de toute relation. Qu'en pensez-vous?",
 
 		"outerColor": [81,0,9],
@@ -308,17 +266,13 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,184,33],
 		"uniqueName": "Roi pour unir",
@@ -345,16 +299,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutaions.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Vous êtes?",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Acceptez que ce soit simple.",
 
 		"outerColor": [246,205,137],
@@ -381,16 +330,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Belle journée.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Parle à mon fion tête de",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Mieux vaut tendre la main que de jeter son poing.",
 
 		"outerColor": [8, 8, 166],
@@ -417,16 +361,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [255, 252, 3],
@@ -452,16 +391,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [81, 0, 137],
@@ -487,16 +421,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [216, 120, 0],
@@ -523,16 +452,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [28,51,119],
@@ -560,16 +484,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [157,172,255],
@@ -596,16 +515,11 @@
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
 		"neutralHello": "Salutations, mon sujet.",
-		"neutralLetsHearIt": ["Voilà mon offre. Cela ne dépend plus que de vous."],
-		"neutralNo": ["Certainement pas."],
-		"neutralYes": ["Ceci me convient."],
 
 		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
-		"hateLetsHearIt": ["Je vous propose un marché plutôt que la force. Soyez raisonnable."],
-		"hateNo": ["Vous vous moquez de moi!"],
-		"hateYes": ["Ceci à le mérite d'être juste."],
 		
-		"afterPeace": "Ces batailles fatiguaient inutilement nos hommes. Profitons de ce moment pour prendre soin de nos vivants.",
+		"denounced": "The accusations of primitive lifeforms are benth us."
+		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Du gateau, du gateau! Voulez-vous du gateau?",
 
 		"outerColor": [255,168,168],
