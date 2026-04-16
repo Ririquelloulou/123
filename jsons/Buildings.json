@@ -38,7 +38,7 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Rue mal famé",
+		"name": "Garde Nocturne",
 		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
 		"requiredTech": "Trapping",
 	},
@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "Réseau d'informateurs",
-		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
+		"uniques": ["[+25]% spy effectiveness [in this city]"],
 		"requiredTech": "Education",
 	},
 	{
