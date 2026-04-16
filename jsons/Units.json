@@ -94,7 +94,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Guerrier Cénérien",
+		"name": "Lancier Cénérien",
 		"uniqueTo": "Alpes Mancelles",
 		"replaces": "Spearman",
 		"unitType": "Sword",
@@ -104,11 +104,11 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Piquier d'Embuscade",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","Can Spread Religion <for [2] movement> <[1] times>","[-50]% Spread Religion Strength]"],
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Piquier d'Embuscade",
+		"name": "Piquier Alpin",
 		"uniqueTo": "Alpes Mancelles",
 		"replaces": "Pikeman",
 		"unitType": "Sword",
