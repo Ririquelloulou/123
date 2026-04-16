@@ -103,8 +103,8 @@
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Piquier d'Embuscade",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","Can Spread Religion <for [2] movement> <[1] times>","[-50]% Spread Religion Strength]"],
+		"upgradesTo": "Piquier Alpin",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","Can Spread Religion <for [2] movement> <[1] times>","[-50]% Spread Religion Strength"],
 		"attackSound": "metalhit"
 	},
 	{
