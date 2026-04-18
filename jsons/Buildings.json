@@ -31,14 +31,31 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Impôt sur les Cerfs",
+		"name": "Impôt des Serfs",
 		"happiness": -4,
 		"uniques": ["[+10]% [Gold] [in this city]"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Garde Nocturne",
+		"name": "La Dîme",
+		"faith": 5,
+		"uniques": ["[+25]% [Faith] [in this city]","Can only be built <in [Holy] cities>","Cannot be purchased"],
+		"maintenance": 10,
+		"cost": 0,
+		"requiredTech": "Theology",
+	},
+	{
+		"name": "L'ôste",
+		"happiness": -3,
+		"uniques": ["[+20]% Production when constructing [Military] units [in this city]"],
+		"maintenance": 3,
+		"cost": 0,
+		"requiredTech": "Theology",
+		"quote": "L'ôste est un devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouvre ce devoir, vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville. - Votre conseiller"
+	},
+	{
+		"name": "Baraquement des Sentinelles",
 		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
 		"requiredTech": "Trapping",
 	},
