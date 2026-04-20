@@ -157,7 +157,7 @@
 	},
 	{
 		"name": "Alpes Mancelles",
-		"leaderName": "Seigneur",
+		"leaderName": "Seigneur Fratecénéri",
 		"adjective": ["Le Seigneur des Alpes Mancelles"],
 		"startBias": ["Hill", "Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
@@ -188,7 +188,7 @@
 	},
 	{
 		"name": "Maison Garnier",
-		"leaderName": "Marquis",
+		"leaderName": "Marquis Sion",
 		"adjective": ["Le Marquisat de Maison Garnier"],
 		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
@@ -218,7 +218,7 @@
 	},
 	{
 		"name": "Les Loups Chevronnés",
-		"leaderName": "Seigneur",
+		"leaderName": "Seigneur Lothaire",
 		"adjective": ["Seigneur des Loups Chevronnés"],
 		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
@@ -315,7 +315,7 @@
 		},
 		{
 		"name": "Ecommoy",
-		"leaderName": "Seigneur Mylène",
+		"leaderName": "Seigneur Mélisende",
 		"adjective": ["Seigneur de Ecommoy"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
@@ -376,8 +376,8 @@
 		},
 		{
 		"name": "La Flèche",
-		"leaderName": "Seigneur",
-		"adjective": ["Seigneur de La Flèche"],
+		"leaderName": "Châtelaine Mathilde",
+		"adjective": ["Châtelaine de La Flèche"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
@@ -469,7 +469,7 @@
 		},
 		{
 		"name": "Tours",
-		"leaderName": "Comtesse",
+		"leaderName": "Comtesse Astride",
 		"adjective": ["Comtesse de Tours"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
