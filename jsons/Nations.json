@@ -157,7 +157,7 @@
 	},
 	{
 		"name": "Alpes Mancelles",
-		"leaderName": "Seigneur Fratecénéri",
+		"leaderName": "Seigneur Anthèlme",
 		"adjective": ["Le Seigneur des Alpes Mancelles"],
 		"startBias": ["Hill", "Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
