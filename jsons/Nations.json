@@ -151,7 +151,7 @@
 		"innerColor": [205, 205, 205],
 		"uniqueName": "Libre par nature",
 		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Malessard","La Poulainerie","Le Savignéen","Chataigné","Les Brûlés","Morionnière","La Garelle","Petit Malessard","Beauchamp",
+		"cities": ["Malessard","Le Savignéen","La Poulainerie","Chataigné","Les Brûlés","Morionnière","La Garelle","Petit Malessard","Beauchamp",
 			"La Noé","Patisseau","Groie","Bel Saule","Grand Haunay","Commune","Sac à Crotte","Vieille Bique","Mhmm Pépite de Chocolat","Trouve Un Nom Toi Même Si Tu Es Si Malin Peau De Lapin"]
 		"spyNames": ["Gabriel","Thiault","Julienne","Miriame"]
 	},
