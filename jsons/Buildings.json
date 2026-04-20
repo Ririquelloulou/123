@@ -229,6 +229,14 @@
 		"requiredTech": "Physics"
 	},
 	{
+		"name": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Compass"
+	},
+	{
 		"name": "Lycée Bellevue",
 		"culture": 1,
 		"isWonder": true,
