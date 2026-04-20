@@ -34,8 +34,8 @@
 	},
 	{
 		"name": "Montfort",
-		"leaderName": "Châtelaine Dame Zina",
-		"adjective": ["Châtelaine Dame Zina"],
+		"leaderName": "Châtelaine Zina",
+		"adjective": ["Châtelaine Zina"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
@@ -126,7 +126,7 @@
 	},
 	{
 		"name": "Les Cerfs Argentés",
-		"leaderName": "Seigneur",
+		"leaderName": "Seigneur Gabor",
 		"adjective": ["Seigneur des Cerfs Argentés"],
 		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
@@ -188,8 +188,8 @@
 	},
 	{
 		"name": "Maison Garnier",
-		"leaderName": "Seigneur",
-		"adjective": ["Maison G"],
+		"leaderName": "Marquis",
+		"adjective": ["Le Marquisat de Maison Garnier"],
 		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
 		
