@@ -23,7 +23,7 @@
 		"range": 6,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["May capture killed [Military] units","When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs","Limited to [2] per Civilization"],
+		"uniques": ["Adjacent enemy units ending their turn take [30] damage","May capture killed [Military] units","Gain control over [3] tiles in a [1]-tile radius","When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs","Limited to [1] per Civilization"],
 		"attackSound": "missile"
 	},
 	{
