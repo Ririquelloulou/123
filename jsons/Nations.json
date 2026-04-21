@@ -490,7 +490,7 @@
 		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
-		"outerColor": [242, 231, 212],
+		"outerColor": [157,172,255],
 		"innerColor": [120, 48, 150],
 		"uniqueName": "Haute et Forte",
 		"uniques": ["[15] units cost no maintenance","Gain an extra spy","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-200]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
