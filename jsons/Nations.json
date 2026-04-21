@@ -491,7 +491,7 @@
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [157,172,255],
-		"innerColor": [120, 48, 150],
+		"innerColor": [37, 43, 33],
 		"uniqueName": "Haute et Forte",
 		"uniques": ["[15] units cost no maintenance","Gain an extra spy","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-200]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Tours","Vouvray","Château la Vallière","Villebourg","St-Paterne-Racan","Marçon","Dissay","Beuil en Touraine","Bruère-sur-Loir","Aubigné-Racan","Vaas",
