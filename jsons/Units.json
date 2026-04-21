@@ -27,6 +27,15 @@
 		"attackSound": "missile"
 	},
 	{
+		"name": "Révolte",
+		"unitType": "Civilian",
+		"movement": 2,
+		"strength": 1,
+		"cost": 180,
+		"requiredTech": "Education",
+		"uniques": ["Adjacent enemy units ending their turn take [10] damage","May capture killed [Military] units","Gain control over [3] tiles in a [1]-tile radius <by consuming this unit>","When defeating a [Military] unit, recruit it <with [100]% chance>","[-100]% maintenance costs","Limited to [1] per Civilization"],
+	},
+	{
 		"name": "Milice Paysanne",
 		"unitType": "Sword",
 		"movement": 2,
