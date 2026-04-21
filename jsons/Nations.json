@@ -239,7 +239,7 @@
 		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "L'échange est la base de toute relation. Qu'en pensez-vous?",
 
-		"outerColor": [81,0,9],
+		"outerColor": [184, 0, 0],
 		"innerColor": [65, 141, 254],
 		"uniqueName": "La voie du Loup",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
