@@ -310,4 +310,12 @@
 		"requiredTech": "Banking",
 		"quote": "'Un monument inconnu des manceaux alors qu'il est sous leurs yeux! C'était le palais de la Reine Bérengère, situé à l'emplacement de l'actuelle mairie, on y voit encore aujourd'hui la fenêtre originale de la chambre royale.' - Un certain guide touristique"
 	},
+	{
+		"name": "Maison de Berengère",
+		"culture": 3,
+		"isWonder": true,
+		"uniques": [""],
+		"requiredTech": "Banking",
+		"quote": "'Un monument inconnu des manceaux alors qu'il est sous leurs yeux! C'était le palais de la Reine Bérengère, situé à l'emplacement de l'actuelle mairie, on y voit encore aujourd'hui la fenêtre originale de la chambre royale.' - Un certain guide touristique"
+	},
 ]
