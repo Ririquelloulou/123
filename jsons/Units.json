@@ -27,9 +27,9 @@
 		"attackSound": "missile"
 	},
 	{
-		"name": "Révolte",
+		"name": "Décret Seigneurial",
 		"unitType": "Civilian",
-		"movement": 2,
+		"movement": 1,
 		"strength": 1,
 		"cost": 180,
 		"requiredTech": "Education",
