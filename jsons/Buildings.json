@@ -290,4 +290,24 @@
 		"requiredTech": "Chivalry",
 		"quote": "'Frapper fort n'est pas une question de force, mais une question de tempo.' - Seigneur Lothaire"
 	},
+	{
+		"name": "Recette Originale des Rilletes",
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"isWonder": true,
+		"uniques": ["Empire enters golden age"],
+		"requiredTech": "Trapping",
+		"quote": "'Les originales sont de Tours.' - Un homme mort"
+	},
+	{
+		"name": "Palais du Grabatoire",
+		"culture": 1,
+		"gold": 4,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"isWonder": true,
+		"uniques": ["[Gold] cost of purchasing items in cities [-15]%"],
+		"requiredTech": "Banking",
+		"quote": "'Un monument inconnu des manceaux alors qu'il est sous leurs yeux! C'était le palais de la Reine Bérengère, situé à l'emplacement de l'actuelle mairie, on y voit encore aujourd'hui la fenêtre originale de la chambre royale.' - Un certain guide touristique"
+	},
 ]
