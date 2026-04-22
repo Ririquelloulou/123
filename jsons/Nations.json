@@ -18,8 +18,8 @@
 
 		"hateHello": "Vous semblez avoir oubliez qui était votre suzerain...",
 		
-		"denounced": "Vos accusations vous mènent sur un sentier dangeureux..."
-		"declaringfriendship": "Vous honorez votre allégeance. Montrons aux autres forces notre amitié!"
+		"denounced": "Je vois maintenant plus clair à votre sujet..."
+		"declaringfriendship": "Il est temps de me montrer votre allegeance."
 		"tradeRequest": "Un accord solidifie les peuples. Vous acceptez?",
 
 		"outerColor": [153,5,3],
@@ -81,7 +81,7 @@
 
 		"hateHello": "Votre visage me déplait.",
 		
-		"denounced": "Qu'ai-je faire de vos accusations?"
+		"denounced": "Vos accusations vous mènent sur un sentier dangeureux..."
 		"declaringfriendship": "Let us become like friends!"
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
@@ -112,8 +112,8 @@
 
 		"hateHello": "Regardez qui voilà...",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
+		"denounced": "Un seigneur me blâme? Et que puis en avoir à faire? Je me torcherai avec ce papier si vous voulez savoir."
+		"declaringfriendship": "Préparons un grand buffet!"
 		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
 
 		"outerColor": [51,25,0],
@@ -175,7 +175,7 @@
 		"hateHello": "Vous osez venir ici!?",
 		
 		"denounced": "Les accusation d'un être comme vous sont d'une importance mineure pour nous."
-		"declaringfriendship": "Let us become like friends!"
+		"declaringfriendship": "J'ai confiance en vous. Et vous?"
 		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
 
 		"outerColor": [65, 141, 254],
@@ -205,8 +205,8 @@
 
 		"hateHello": "Vous osez venir ici!?",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
+		"denounced": "Voyez-vous ça..."
+		"declaringfriendship": "Au jeu du trône, soit on meurt, soit on gagne. Vous choisissez?"
 		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
 
 		"outerColor": [255,120,0],
@@ -235,8 +235,8 @@
 
 		"hateHello": "Soyez agréable ou je vous fais jeter dehors.",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
+		"denounced": "Je vois maintenant plus clair à votre sujet..."
+		"declaringfriendship": "Affirmons notre amitié et nos ennemis en jalouseront!"
 		"tradeRequest": "L'échange est la base de toute relation. Qu'en pensez-vous?",
 
 		"outerColor": [123,3,0],
@@ -264,13 +264,13 @@
 		"defeated": "Comment est-ce possible? Que dirait le fondateur de ma dynastie Hugues Capet? J'imagine que la coutûme nécessite que je vous félicites malgré tout... Mais un autre Roi prendra ma place, et vous paierez.",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Salutations, sujet.",
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Tourner le dos au Royaume de France est une grave erreur...",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"denounced": "Quelles bassaisses!"
+		"declaringfriendship": "Il est temps d'affirmer votre amitié au Royaume de France!"
+		"tradeRequest": "Je pense que ceci est dans votre intérêt.",
 		
 		"outerColor": [38, 98, 255],
 		"innerColor": [255,184,33],
@@ -301,8 +301,8 @@
 
 		"hateHello": "Vous êtes?",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
+		"denounced": "Je ne l'oublierai pas."
+		"declaringfriendship": "Il faut bien choisir ses amis en ces temps sombres..."
 		"tradeRequest": "Acceptez que ce soit simple.",
 
 		"outerColor": [246,205,137],
@@ -332,8 +332,8 @@
 
 		"hateHello": "Parle à mon fion tête de",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
+		"denounced": "Qu'ai-je faire de vos accusations?"
+		"declaringfriendship": "Montrons aux autres forces notre amitié!"
 		"tradeRequest": "Mieux vaut tendre la main que de jeter son poing.",
 
 		"outerColor": [8, 8, 166],
