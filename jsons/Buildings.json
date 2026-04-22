@@ -318,4 +318,13 @@
 		"requiredTech": "Banking",
 		"quote": "'Pfff..! On a aucunes preuves que c'est bien sa maison!' - Un certain guide touristique"
 	},
+	{
+		"name": "Cité du Cirque",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["[+25]% Great Person generation [in all cities]", "Free Great Person"],
+		"requiredTech": "Physics",
+		"quote": "'Comment j'ai fait cette Merveille? Eh bien... De prime à bord je construisais une piscine puis à cause d'un mauvais calcul me voilà avec un chapiteau.' - L'architecte, histoire simplifiée MAIS VRAIE! Votre guide touristique"
+	},
 ]
