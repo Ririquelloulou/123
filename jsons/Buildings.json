@@ -24,9 +24,8 @@
 	},
 	{
 		"name": "Impôt Seigneurial",
-		"isNationalWonder": true,
 		"happiness": -15,
-		"uniques": ["[+33]% [Gold] [in all cities]"],
+		"uniques": ["[+33]% [Gold] [in all cities]","Limited to [1] per Civilization"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
