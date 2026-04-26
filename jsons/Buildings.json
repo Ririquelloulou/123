@@ -247,6 +247,15 @@
 		"requiredTech": "Currency"
 	},
 	{
+		"name": "Ecole Militaire",
+		"uniqueTo": "Tours",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+20]% Production when constructing [Spearman] units [in this city]", "[+20]% Production when constructing [Pikeman] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
 		"name": "Lycée Bellevue",
 		"culture": 1,
 		"isWonder": true,
