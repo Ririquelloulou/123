@@ -81,7 +81,7 @@
 		"replaces": "Décret Seigneurial",
 		"movement": 1,
 		"strength": 1,
-		"rangedStrength": 0,
+		"rangedStrength": 1,
 		"range": 12,
 		"cost": 180,
 		"requiredTech": "Education",
