@@ -429,8 +429,8 @@
 
 		"outerColor": [216, 120, 0],
 		"innerColor": [28,51,119],
-		"uniqueName": "Reigner et Servir",
-		"uniques": ["Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniqueName": "Par delà la source",
+		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion","[+10]% [Culture] <when not at war>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Sillé-le-Guillaume","Conlie","Rouez","Tennie","Parennes","Rouessé Vassé","L'Etang Neuf","Vernie","Crissé","Pezé-le-Robert",
 			"Sucé","Neuvillalais","Pont de Monet","Ségrie","Montreuil-le-Chétif","Salaines","Val de Pierre","Les Douzes","Courgoult",
 			"Verniettes","L'Habit","Grand Eguille","Bois Boute","Grand Verger"]
