@@ -222,9 +222,9 @@
 		"name": "Porte St Julien",
 		"uniqueTo": "La Ferté Bernard",
 		"isNationalWonder": true,
-		"cost": "125",
-		"culture": 6,
-		"uniques": ["Only available <if [Amphitheater] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [15] per owned city"],
+		"cost": "150",
+		"culture": 1,
+		"uniques": ["[+25]% [Culture] [in all cities]"],
 		"requiredTech": "Physics"
 	},
 	{
@@ -236,7 +236,7 @@
 		"requiredTech": "Compass"
 	},
 	{
-		"name": "Halle",
+		"name": "Halles",
 		"replaces": "Market",
 		"uniqueTo": "Sillé-le-Guillaume",
 		"gold": 2,
