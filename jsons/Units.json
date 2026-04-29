@@ -148,12 +148,12 @@
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Piquier Alpin",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","Can Spread Religion <for [2] movement> <[1] times>","[-50]% Spread Religion Strength"],
+		"upgradesTo": "Mancellalpien",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","[+5]% [Faith] <upon entering a [Hill] tile>"],
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Piquier Alpin",
+		"name": "Mancellalpien",
 		"uniqueTo": "Alpes Mancelles",
 		"replaces": "Pikeman",
 		"unitType": "Sword",
@@ -161,7 +161,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","[+25]% to Flank Attack bonuses"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
