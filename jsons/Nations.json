@@ -242,10 +242,8 @@
 		"innerColor": [65, 141, 254],
 		"uniqueName": "La voie du Loup",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["La Porte","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["La Houdennerie","Blandan","La Trugalle","Neuville","Montreuil","Le Grand Autreville","La Chénaie","Le Bouleau","Le Hameau","La Louverie","La Jolievière",
+			"La Touche","Pain Béni","Le Léard","Le Moulin","Petit Paris","Blanchardière"]
 		"spyNames": ["Léandre","Cornault","Poäna","Orthance","Eleanor","Ilhiam"]
 	},
 	{
@@ -522,10 +520,8 @@
 		"innerColor": [84,26,26],
 		"uniqueName": "Tel le phoenix",
 		"uniques": ["[+1 Production, +1 Culture] from all [Culture] buildings","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Enables Open Borders agreements <after discovering [Writing]>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Makadam","Vieux Ronchon","Oui-Oui","Superchouet","Le Cracra","Riqui","Poto","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["La Roseraie","La Houdennerie","Blandan","La Trugalle","Neuville","Montreuil","Le Grand Autreville","La Chénaie","Le Bouleau","Le Hameau","La Jolievière",
+			"La Touche","Pain Béni","Le Léard","Le Moulin","Petit Paris","Blanchardière"]
 		"spyNames": ["Hélène","Salimar","Guenièvre","Obérhim"]
 		},
 ]
