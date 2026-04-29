@@ -149,7 +149,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Mancellalpien",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","[+5]% [Faith] <upon entering a [Hill] tile>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","[+25]% to Flank Attack bonuses"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -161,7 +161,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","[+25]% to Flank Attack bonuses"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","Double movement in [Hill]"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
