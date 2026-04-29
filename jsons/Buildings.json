@@ -151,11 +151,12 @@
 	{
 		"name": "Les Affranchis",
 		"uniqueTo": "La Flèche",
+		"isNationalWonder": true,
+		"culture": 2,
 		"specialistSlots": {"Artist": 3},
 		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[-20]% Culture cost of natural border growth [in this city]","Limited to [1] per Civilization","Destroyed when the city is captured"],
+		"uniques": ["[+25]% Great Person generation [in this city]","Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
