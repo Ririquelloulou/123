@@ -62,11 +62,13 @@
 	{
 		"name": "Salle secrète",
 		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
+		"requiredBuilding": "Baraquement des Sentinelles",
 		"requiredTech": "Drama and Poetry",
 	},
 	{
 		"name": "Réseau d'informateurs",
-		"uniques": ["[+25]% spy effectiveness [in this city]"],
+		"uniques": ["[-33]% enemy spy effectiveness [in this city]","[+25]% spy effectiveness [in this city]"],
+		"requiredBuilding": "Salle secrète",
 		"requiredTech": "Education",
 	},
 	{
