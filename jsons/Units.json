@@ -93,8 +93,8 @@
 		"name": "Coupe-gorge",
 		"unitType": "Sword",
 		"movement": 3,
-		"strength": 3,
-		"cost": 160,
+		"strength": 5,
+		"cost": 170,
 		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [All] tiles>","Can move after attacking","[-100]% XP gained from combat","Limited to [1] per Civilization"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
