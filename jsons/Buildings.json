@@ -70,6 +70,9 @@
 		"uniques": ["[-33]% enemy spy effectiveness [in this city]","[+25]% spy effectiveness [in this city]"],
 		"requiredBuilding": "Salle secrète",
 		"requiredTech": "Education",
+		"civilopediaText": [
+            { "text": "Réduisez considérablement l'efficacité des espions ennemis, et améliorez celle de vos propres espions dans cette ville. Idéal pour capturer et neutraliser les fouineurs!" }
+        ]
 	},
 	{
 		"name": "Ecurie de Thelma",
