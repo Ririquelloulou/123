@@ -52,7 +52,7 @@
 		
 		"denounced": "De bien grandes accusations pour une si petite personne..."
 		"declaringfriendship": "Devenons amis!"
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "Je pense que ceci est dans notre intérêt.",
 
 		"outerColor": [61, 0, 109],
 		"innerColor": [240, 199, 0],
@@ -289,18 +289,18 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Ai-je besoin de vous expliquer ce qui va suivre? Les chairs sera meurtries, les os seront pulverisés, et vous serez anéantis.",
+		"declaringWar": "Ai-je besoin de vous expliquer ce qui va suivre? Les chairs seront meurtries, les os seront pulverisés, et vous serez là, inerte, étendu dans la boue.",
 		"attacked": "Ah en voilà de l'audace! Voyons ce que vous savez faire.",
-		"defeated": "Eh bien vous avez gagné. Mon plus grand regré : ne pas avoir pu planter ma hache dans votre tête.",
+		"defeated": "Eh bien vous avez gagné. Mon plus grand regré est de ne pas avoir pu planter ma hache dans votre crâne.",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutaions.",
+		"neutralHello": "Bonjour.",
 
 		"hateHello": "Vous êtes?",
 		
 		"denounced": "Je ne l'oublierai pas."
 		"declaringfriendship": "Il faut bien choisir ses amis en ces temps sombres..."
-		"tradeRequest": "Acceptez que ce soit simple.",
+		"tradeRequest": "Acceptez! Que ce soit simple.",
 
 		"outerColor": [246,205,137],
 		"innerColor": [37, 43, 33],
@@ -327,11 +327,11 @@
 		
 		"neutralHello": "Belle journée.",
 
-		"hateHello": "Parle à mon fion tête de",
+		"hateHello": "Je ne peux supporter votre présence.",
 		
-		"denounced": "Qu'ai-je faire de vos accusations?"
-		"declaringfriendship": "Montrons aux autres forces notre amitié!"
-		"tradeRequest": "Mieux vaut tendre la main que de jeter son poing.",
+		"denounced": "Tout ceci est ridicule!"
+		"declaringfriendship": "Montrons aux autres la force de notre amitié!"
+		"tradeRequest": "Mieux vaut tendre la main que de montrer son poing.",
 
 		"outerColor": [8, 8, 166],
 		"innerColor": [255, 255, 255],
