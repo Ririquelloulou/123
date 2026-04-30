@@ -33,7 +33,7 @@
 		"strength": 1,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization","[+20]% weight to this choice for AI decisions"],
+		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization","[-10000]% Strength <upon entering combat>","[+20]% weight to this choice for AI decisions"],
 		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
 	},
 	{
@@ -45,7 +45,7 @@
 		"strength": 1,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization","[+25]% weight to this choice for AI decisions"],
+		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization","[-10000]% Strength <upon entering combat>","[+25]% weight to this choice for AI decisions"],
 		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
 	},
 	{
@@ -57,7 +57,7 @@
 		"strength": 1,
 		"cost": 170,
 		"requiredTech": "Education",
-		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization","[+33]% weight to this choice for AI decisions"],
+		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization","[-10000]% Strength <upon entering combat>","[+33]% weight to this choice for AI decisions"],
 		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
 	},
 	{
@@ -68,7 +68,7 @@
 		"movement": 4,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization","[+50]% weight to this choice for AI decisions"],
+		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization","[-10000]% Strength <upon entering combat>","[+50]% weight to this choice for AI decisions"],
 		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
 	},
 	{
@@ -80,7 +80,7 @@
 		"strength": 1,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization","[+50]% weight to this choice for AI decisions"],
+		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization","[-10000]% Strength <upon entering combat>","[+50]% weight to this choice for AI decisions"],
 		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
 	},
 	{
