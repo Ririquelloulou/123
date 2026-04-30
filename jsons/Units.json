@@ -37,7 +37,6 @@
 		"civilopediaText": [
             { "text": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, pour y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!" }
         ]
-		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
 	},
 	{
 		"name": "Décret de la Comtesse",
@@ -49,7 +48,9 @@
 		"cost": 180,
 		"requiredTech": "Education",
 		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization"],
-		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
+        "civilopediaText": [
+            { "text": "Ce décret est légèrement plus puissant qu'un Décret Seigneurial, c'est l'avantage du titre de noblesse! Le Décret de la Comtesse peut se déplacer plus vite et donc atteindre des cases lointaine plus rapidement. En résumer, la Comtesse peut revendiquer plus de territoire qu'un seigneur." }
+        ]
 	},
 	{
 		"name": "Décret du Marquis",
@@ -61,7 +62,9 @@
 		"cost": 170,
 		"requiredTech": "Education",
 		"uniques": ["Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-100]% maintenance costs","Limited to [1] per Civilization"],
-		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
+        "civilopediaText": [
+            { "text": "Ce décret est légèrement plus puissant que le Décret de la Comtesse, c'est l'avantage du titre de noblesse! Le Décret du Marquis est identique au Décret de la Comtesse, il est simplement plus rapide à produire. En résumer, le Marquis grâce à son titre exeptionnel peut revendiquer plus de territoire qu'un seigneur, et ou qu'une comtesse." }
+        ]
 	},
 	{
 		"name": "Décret Royal",
@@ -72,7 +75,9 @@
 		"cost": 180,
 		"requiredTech": "Education",
 		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization"],
-		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
+        "civilopediaText": [
+            { "text": "Les Rois cherchent à s'emparer du Comté du Maine. Ce décret est beaucoup plus puissant que n'importe quel autre Décret, c'est l'avantage d'être Roi! Le Décret Royal peut se déplacer amplement plus vite, peut traverser n'importe quel territoire même sans Accord de Libre Passage, et donc atteindre n'importe quelles cases très lointaine plus rapidement. En résumer, les Rois peuvent revendiquer de larges territoires, quasiment n'importe où sur la carte, y compris aux portes de vos villes. Soyez leur allié, et ils ne toucheront peut-être pas à vos terres. Dressez-vous contre le pouvoir royal, et faites faces aux conséquences." }
+        ]
 	},
 	{
 		"name": "Décret Royal ",
@@ -84,7 +89,9 @@
 		"cost": 180,
 		"requiredTech": "Education",
 		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization"],
-		"quote": "Les seigneurs ne manquent pas d'imagination pour accroître leur pouvoir, et sans qu'il n'y ait de Comte pour les rappeler à l'ordre, tout est permis... Le Décret Seigneurial vous permet de prendre le contrôle d'un petit territoire. Vous pouvez l'utilisez afin de réserver un territoire vierge, afin d'y implanter une future colonie, ou vous pouvez voler le territoire de n'importe quelle nation! Prudence, ce décret est évidemment très controversé, et ruinera votre relation avec celui que vous volerez!",
+        "civilopediaText": [
+            { "text": "Les Rois cherchent à s'emparer du Comté du Maine. Ce décret est beaucoup plus puissant que n'importe quel autre Décret, c'est l'avantage d'être Roi! Le Décret Royal peut se déplacer amplement plus vite, peut traverser n'importe quel territoire même sans Accord de Libre Passage, et donc atteindre n'importe quelles cases très lointaine plus rapidement. En résumer, les Rois peuvent revendiquer de larges territoires, quasiment n'importe où sur la carte, y compris aux portes de vos villes. Soyez leur allié, et ils ne toucheront peut-être pas à vos terres. Dressez-vous contre le pouvoir royal, et faites faces aux conséquences." }
+        ]
 	},
 	{
 		"name": "Coupe Gorge",
