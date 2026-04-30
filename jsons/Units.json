@@ -90,14 +90,17 @@
         ]
 	},
 	{
-		"name": "Coupe Gorge",
+		"name": "Coupe-gorge",
 		"unitType": "Sword",
 		"movement": 3,
-		"strength": 5,
-		"cost": 120,
+		"strength": 3,
+		"cost": 160,
 		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [All] tiles>","Can move after attacking","[-100]% XP gained from combat","Limited to [1] per Civilization"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
+		"civilopediaText": [
+            { "text": "La guerre est faite de sang, de boue, et de coups bas. Le Coupe-gorge élimine l'ennemi avant même que ce dernier sâche d'où provient la menace, et disparaît aussitôt, prêt à chasser une nouvelle victime. Cette unité unique est particulièrement meurtrière, méfiez-vous en!" }
+        ]
 	},
 	{
 		"name": "Rodeur",
@@ -492,5 +495,8 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "arrow"
+		"civilopediaText": [
+            { "text": "Une forme profilée, un aérodynamisme performant, il est certain que ce char à inspiré les bolides d'endurance les plus performants. Hypercar, ça vient d'où à votre avis?" }
+        ]
 	},
 ]
