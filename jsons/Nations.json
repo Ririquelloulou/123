@@ -113,7 +113,7 @@
 		
 		"denounced": "Un seigneur me blâme? Et que puis en avoir à faire? Je me torcherai avec ce papier si vous voulez savoir."
 		"declaringfriendship": "Préparons un grand buffet!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"tradeRequest": "N'y passons pas la journée!",
 
 		"outerColor": [51,25,0],
 		"innerColor": [255,255,102],
@@ -351,18 +351,18 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "Vous êtes un obstacle à mes projets.",
+		"attacked": "Si nous devons nous battre, faisons le pour un avenir meilleur.",
+		"defeated": "Seul un monstre est apte à détruire. Vous vous faites honte à vous-même.",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Toutes mes salutations.",
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Que voulez-vous...?",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"denounced": "De telles accusations ne peuvent sortir que de la bouche d'un menteur."
+		"declaringfriendship": "Montrons notre amitié au reste des forces!"
+		"tradeRequest": "Un accord pour nous satisfaire. Qu'en dîtes-vous?",
 
 		"outerColor": [255, 252, 3],
         "innerColor": [18, 66, 22],
@@ -381,18 +381,18 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "Pour écarter les vipères dans les hautes herbes, il ne suffit pas de frapper le sol pour les éloigner. Leur couper la tête est bien plus efficace.",
+		"attacked": "Vous allez goûter à la pointe de nos flèches!",
+		"defeated": "Je suis vaincue je le reconnais. Qu'est-il arriver pour que nous en arrivions là, à se tuer entre frères et soeurs du Maine... pour un trône?",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Ah c'est vous!",
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Allez voir ailleurs si j'y suis.",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"denounced": "Ces accusations sont l'oeuvre de vraies vipères!"
+		"declaringfriendship": "Devenons amis!"
+		"tradeRequest": "J'ai pensé à ceci pour vous.",
 
 		"outerColor": [81, 0, 137],
 		"innerColor": [213,249,255],
@@ -411,18 +411,18 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "Je ne subirai pas mon destin, et vous ne faites pas partis de mon plan. Quel choix me reste-t-il?",
+		"attacked": "Je n'aime ni la mort, ni subir mon destin. Il ne me reste qu'à gagner je suppose?",
+		"defeated": "Je n'ai jamais été bon guerrier. Vous vanter de m'avoir vaincu vous rendrai ridicule.",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Salut à vous.",
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Des problèmes, encore des problèmes. Qu'avez-vous d'autres à apporter?",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"denounced": "Espèce de..!"
+		"declaringfriendship": "Soyons amis!"
+		"tradeRequest": "Mon offre est sincère. Qu'en pensez-vous?",
 
 		"outerColor": [216, 120, 0],
 		"innerColor": [28,51,119],
@@ -442,18 +442,18 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "La Sarthe se passera de vous!",
+		"attacked": "Rien n'ébranlera notre foi en un Maine indépendant. AUX ARMES!!!",
+		"defeated": "Le fer à parler, Le Maine ne sera jamais libre. Qu'allez-vous en faire?",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Salut à toi, camarade.",
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "SARTHE LIBRE! SARTHE LIIBREEEE! Les anti-Sarthe on les pendra!",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"denounced": "Un jour, le chef des Loups m'a dit : 'Dans la demeure d'un homme corrompu, il n'y a nul part où cracher sauf sur son visage.'. Je le comprends."
+		"declaringfriendship": "Camarade! Devenons amis!"
+		"tradeRequest": "Alors vous en dîtes?",
 
 		"outerColor": [28,51,119],
 		"innerColor": [255, 56, 56],
@@ -472,18 +472,18 @@
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
 		
-		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
-		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
-		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"declaringWar": "A l'instant où vous lisez ces mots, mon armée marche sur vous. Je vous écrit par cordialité, mais si je vous attaque, c'est que je compte gagner.",
+		"attacked": "Vous ne manquer pas de courage je vous l'accorde!",
+		"defeated": "La Touraine, entre vos mains!? Comment ai-je pu laisser cela arriver!!",
 		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
 		
-		"neutralHello": "Salutations, mon sujet.",
+		"neutralHello": "Enchantée de vous voir.",
 
-		"hateHello": "Tourner le dos au Royaume de France serait une grave erreur...",
+		"hateHello": "Mhmm?",
 		
-		"denounced": "The accusations of primitive lifeforms are benth us."
-		"declaringfriendship": "Let us become like friends!"
-		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+		"denounced": "Quelle bassaisse!"
+		"declaringfriendship": "Je serais ravie de vous compter parmis mes amis."
+		"tradeRequest": "Je crois que ceci sera bénéfique pour nous deux.",
 
 		"outerColor": [37, 43, 33],
 		"innerColor": [157,172,255],
