@@ -32,7 +32,7 @@
 	{
 		"name": "Impôt des Serfs",
 		"happiness": -4,
-		"uniques": ["[+25]% [Gold] [in this city]"],
+		"uniques": ["[+25]% [Gold] [in this city]","[+25]% Gold given to enemy if city is captured","Unavailable <when below [0] [Happiness]> <for [AI player] Civilizations> <hidden from users>","Remove [Impôt des Serfs] [in this city] <when below [-15] [Happiness]> <for [AI player] Civilizations> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
