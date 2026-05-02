@@ -25,7 +25,7 @@
 	{
 		"name": "Impôt Seigneurial",
 		"happiness": -15,
-		"uniques": ["[+33]% [Gold] [in all cities]","Limited to [1] per Civilization"],
+		"uniques": ["[+33]% [Gold] [in all cities]","[+33]% Gold given to enemy if city is captured","Unavailable <when below [15] Happiness> <for [AI player] Civilizations> <hidden from users>","Remove [Impôt Seigneurial] [in this city] <when below [-10] Happiness> <for [AI player] Civilizations> <hidden from users>","Destroyed when the city is captured <hidden from users>","Limited to [1] per Civilization"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
